@@ -1,0 +1,3665 @@
+{
+ "source": "https://www.opensourcealternatives.to/category/developer-tools",
+ "pages_scraped": 24,
+ "extracted_at": "2026-08-29",
+ "method": "Direct HTML fetch + parse (ScrapeGraphAI API returned HTTP 500 on all attempts; fallback used). alternative_to and repo pulled from each tool's detail page.",
+ "tool_count": 282,
+ "tools": [
+  {
+   "name": "Spinifex",
+   "description": "Run AWS workloads on your own hardware, free and open-source.",
+   "alternative_to": "AWS",
+   "link": "https://www.opensourcealternatives.to/item/spinifex",
+   "repo": "https://github.com/mulgadc/spinifex",
+   "tags": [
+    "Cloud Management",
+    "Developer Tools",
+    "Self Hosted"
+   ],
+   "github_stars": "97"
+  },
+  {
+   "name": "OpenCode",
+   "description": "OpenCode is an open-source AI coding agent that assists developers in",
+   "alternative_to": "Claude Code",
+   "link": "https://www.opensourcealternatives.to/item/opencode",
+   "repo": "https://github.com/features/copilot",
+   "tags": [
+    "AI Coding Assistant",
+    "LLM",
+    "Self Hosted"
+   ],
+   "github_stars": "202.2"
+  },
+  {
+   "name": "Doberman-Core",
+   "description": "Runtime guardrails that gate every AI agent tool call",
+   "alternative_to": "Zenity and WorkOS FGA",
+   "link": "https://www.opensourcealternatives.to/item/doberman-core",
+   "repo": "https://github.com/DobermanCore/Doberman-Core",
+   "tags": [
+    "AI Coding Assistant",
+    "Authorization",
+    "AI Agents"
+   ],
+   "github_stars": "198"
+  },
+  {
+   "name": "googletest",
+   "description": "C++ testing and mocking framework by Google",
+   "alternative_to": "Parasoft C/C++test",
+   "link": "https://www.opensourcealternatives.to/item/googletest",
+   "repo": "https://github.com/google/googletest",
+   "tags": [
+    "Developer Tools",
+    "Testing",
+    "CI/CD Platforms"
+   ],
+   "github_stars": "39.2"
+  },
+  {
+   "name": "freellmapi",
+   "description": "One OpenAI-compatible key for 635 free LLM endpoints",
+   "alternative_to": "OpenRouter",
+   "link": "https://www.opensourcealternatives.to/item/freellmapi",
+   "repo": "https://github.com/tashfeenahmed/freellmapi",
+   "tags": [
+    "LLM",
+    "AI Coding Assistant",
+    "Self Hosted"
+   ],
+   "github_stars": "21.6"
+  },
+  {
+   "name": "tailcat",
+   "description": "Encrypted tunnels between machines, no account or IP needed",
+   "alternative_to": "Tailscale and Twingate",
+   "link": "https://www.opensourcealternatives.to/item/tailcat",
+   "repo": "https://github.com/tailscale/tailcat",
+   "tags": [
+    "CLI",
+    "Developer Tools",
+    "Security"
+   ],
+   "github_stars": "2.7"
+  },
+  {
+   "name": "go-modern-guidelines",
+   "description": "Modern Go idioms for every AI coding agent, free",
+   "alternative_to": "GitHub Copilot",
+   "link": "https://www.opensourcealternatives.to/item/go-modern-guidelines",
+   "repo": "https://github.com/JetBrains/go-modern-guidelines",
+   "tags": [
+    "AI Coding Assistant",
+    "Developer Tools",
+    "Coding"
+   ],
+   "github_stars": "2.1"
+  },
+  {
+   "name": "Superlearn",
+   "description": "Interactive study boards for any topic, no new subscription needed",
+   "alternative_to": "OpenAI Codex",
+   "link": "https://www.opensourcealternatives.to/item/superlearn",
+   "repo": "https://github.com/raiyanyahya/Superlearn",
+   "tags": [
+    "Knowledge Management",
+    "AI Coding Assistant",
+    "Scraping"
+   ],
+   "github_stars": "104"
+  },
+  {
+   "name": "claude-mem",
+   "description": "Stop re-explaining your codebase to every new agent session",
+   "alternative_to": "Pinecone and Qdrant Cloud",
+   "link": "https://www.opensourcealternatives.to/item/claude-mem",
+   "repo": "https://github.com/thedotmack/claude-mem",
+   "tags": [
+    "AI Agents",
+    "Knowledge Management",
+    "Developer Tools"
+   ],
+   "github_stars": "92.3"
+  },
+  {
+   "name": "deja",
+   "description": "Predictive ghost-text zsh suggestions with no account or cloud",
+   "alternative_to": "Warp and GitHub Copilot CLI",
+   "link": "https://www.opensourcealternatives.to/item/deja",
+   "repo": "https://github.com/Giammarco-Ferranti/deja",
+   "tags": [
+    "CLI",
+    "Developer Tools",
+    "Workflow Automation"
+   ],
+   "github_stars": "634"
+  },
+  {
+   "name": "accelerate",
+   "description": "Distribute PyTorch training to multi-GPU and TPU with four lines",
+   "alternative_to": "Amazon SageMaker",
+   "link": "https://www.opensourcealternatives.to/item/accelerate",
+   "repo": "https://github.com/huggingface/accelerate",
+   "tags": [
+    "AI Coding Assistant",
+    "Developer Tools",
+    "CI/CD Platforms"
+   ],
+   "github_stars": "9.8"
+  },
+  {
+   "name": "browser-use",
+   "description": "Python library giving any LLM full browser control, MIT licensed",
+   "alternative_to": "ChatGPT Atlas and Skyvern",
+   "link": "https://www.opensourcealternatives.to/item/browser-use",
+   "repo": "https://github.com/browser-use/browser-use",
+   "tags": [
+    "AI Agents",
+    "Cloud Native"
+   ],
+   "github_stars": "111"
+  },
+  {
+   "name": "free-claude-code",
+   "description": "Route 9 AI coding agents through 1.3B+ free monthly tokens",
+   "alternative_to": "GitHub Copilot",
+   "link": "https://www.opensourcealternatives.to/item/free-claude-code",
+   "repo": "https://github.com/Alishahryar1/free-claude-code",
+   "tags": [
+    "AI Coding Assistant",
+    "Developer Tools"
+   ],
+   "github_stars": "50.4"
+  },
+  {
+   "name": "kudu",
+   "description": "Terminal UI for QEMU/KVM VMs on Linux, no libvirt required",
+   "alternative_to": "HashiCorp Terraform",
+   "link": "https://www.opensourcealternatives.to/item/kudu",
+   "repo": "https://github.com/pythops/kudu",
+   "tags": [
+    "Infrastructure as Code",
+    "DevOps Tools",
+    "CLI"
+   ],
+   "github_stars": "149"
+  },
+  {
+   "name": "airstats",
+   "description": "Sixteen macOS metrics in your menu bar at 0.046% CPU",
+   "alternative_to": "iStat Menus",
+   "link": "https://www.opensourcealternatives.to/item/airstats",
+   "repo": "https://github.com/byrencheema/airstats",
+   "tags": [
+    "macOS",
+    "Monitoring",
+    "Developer Tools"
+   ],
+   "github_stars": "223"
+  },
+  {
+   "name": "hister",
+   "description": "Private full-text search for your pages and files",
+   "alternative_to": "Glean, Coveo and Guru",
+   "link": "https://www.opensourcealternatives.to/item/hister",
+   "repo": "https://github.com/asciimoo/hister",
+   "tags": [
+    "Self Hosted",
+    "Privacy Tools",
+    "Search Engine"
+   ],
+   "github_stars": "3.2"
+  },
+  {
+   "name": "marin",
+   "description": "Open lab for training foundation models together",
+   "alternative_to": "Databricks",
+   "link": "https://www.opensourcealternatives.to/item/marin",
+   "repo": "https://github.com/marin-community/marin",
+   "tags": [
+    "LLM",
+    "AI Coding Assistant",
+    "Developer Tools"
+   ],
+   "github_stars": "2.9"
+  },
+  {
+   "name": "headlong",
+   "description": "Bash microharness for agents that think continuously",
+   "alternative_to": "Lindy AI and Relevance AI",
+   "link": "https://www.opensourcealternatives.to/item/headlong",
+   "repo": "https://github.com/laude-institute/headlong",
+   "tags": [
+    "LLM",
+    "AI Agents",
+    "Developer Tools"
+   ],
+   "github_stars": "956"
+  },
+  {
+   "name": "fx",
+   "description": "Native Zig CLI coding agent, 7.8 MiB, any AI model.",
+   "alternative_to": "Claude Code and Cursor",
+   "link": "https://www.opensourcealternatives.to/item/fx",
+   "repo": "https://github.com/vercel-labs/fx",
+   "tags": [
+    "CLI",
+    "AI Coding Assistant",
+    "Developer Tools"
+   ],
+   "github_stars": "2.5"
+  },
+  {
+   "name": "sub2api",
+   "description": "One API gateway for Claude, OpenAI, Gemini, and Grok subscriptions",
+   "alternative_to": "",
+   "link": "https://www.opensourcealternatives.to/item/sub2api",
+   "repo": "https://github.com/Wei-Shaw/sub2api",
+   "tags": [
+    "API Infrastructure",
+    "AI Coding Assistant",
+    "Developer Tools"
+   ],
+   "github_stars": "39.8"
+  },
+  {
+   "name": "codex",
+   "description": "OpenAI's terminal coding agent, Apache-2.0 licensed",
+   "alternative_to": "GitHub Copilot and Cursor",
+   "link": "https://www.opensourcealternatives.to/item/codex",
+   "repo": "https://github.com/openai/codex",
+   "tags": [
+    "AI Coding Assistant",
+    "Developer Tools",
+    "CLI"
+   ],
+   "github_stars": "119.6"
+  },
+  {
+   "name": "image-optimizer",
+   "description": "Free desktop image optimizer. Files stay on your machine.",
+   "alternative_to": "TinyPNG",
+   "link": "https://www.opensourcealternatives.to/item/image-optimizer",
+   "repo": "https://github.com/antonreshetov/image-optimizer",
+   "tags": [
+    "Developer Tools",
+    "Graphic Design"
+   ],
+   "github_stars": "916"
+  },
+  {
+   "name": "guaardvark",
+   "description": "Self-hosted AI workstation with agents, video, voice, and RAG.",
+   "alternative_to": "LangSmith",
+   "link": "https://www.opensourcealternatives.to/item/guaardvark",
+   "repo": "https://github.com/guaardvark/guaardvark",
+   "tags": [
+    "AI Agents",
+    "Local-first",
+    "Self Hosted"
+   ],
+   "github_stars": "184"
+  },
+  {
+   "name": "lumina",
+   "description": "Local-first AI agent that learns, remembers, and never phones home",
+   "alternative_to": "Kimi Work and Gumloop",
+   "link": "https://www.opensourcealternatives.to/item/lumina",
+   "repo": "https://github.com/Bino5150/lumina",
+   "tags": [
+    "AI Agents",
+    "Local-first",
+    "Knowledge Management"
+   ],
+   "github_stars": "154"
+  },
+  {
+   "name": "maka",
+   "description": "Local-first AI agent workspace with append-only execution logs",
+   "alternative_to": "LangSmith and Vellum AI",
+   "link": "https://www.opensourcealternatives.to/item/maka",
+   "repo": "https://github.com/apache/maka",
+   "tags": [
+    "AI Agents",
+    "Local-first",
+    "Developer Tools"
+   ],
+   "github_stars": "3.9"
+  },
+  {
+   "name": "terminal-browser",
+   "description": "Full Chromium browser rendering inside your terminal",
+   "alternative_to": "GitHub Codespaces",
+   "link": "https://www.opensourcealternatives.to/item/terminal-browser",
+   "repo": "https://github.com/features/codespaces",
+   "tags": [
+    "CLI",
+    "Developer Tools",
+    "Web Browsers"
+   ],
+   "github_stars": "2.4"
+  },
+  {
+   "name": "meridian",
+   "description": "Local work journal that logs your day and drafts your standup.",
+   "alternative_to": "Toggl Track and Harvest",
+   "link": "https://www.opensourcealternatives.to/item/meridian",
+   "repo": "https://github.com/Meridiona/meridian",
+   "tags": [
+    "Local-first",
+    "Open Core",
+    "Privacy Tools"
+   ],
+   "github_stars": "257"
+  },
+  {
+   "name": "turbovec",
+   "description": "Rust vector index with TurboQuant compression, no managed service",
+   "alternative_to": "Pinecone and Qdrant",
+   "link": "https://www.opensourcealternatives.to/item/turbovec",
+   "repo": "https://github.com/RyanCodrai/turbovec",
+   "tags": [
+    "RAG",
+    "AI Search Tools",
+    "Database"
+   ],
+   "github_stars": "16.5"
+  },
+  {
+   "name": "OpenLogi",
+   "description": "Local-first Logitech control without accounts or telemetry",
+   "alternative_to": "Logitech Options+",
+   "link": "https://www.opensourcealternatives.to/item/openlogi",
+   "repo": "https://github.com/AprilNEA/OpenLogi",
+   "tags": [
+    "macOS",
+    "Developer Tools",
+    "Local-first"
+   ],
+   "github_stars": "17.4"
+  },
+  {
+   "name": "gitdeck",
+   "description": "Self-hosted Git dashboard for GitHub, GitLab, and Forgejo",
+   "alternative_to": "GitHub Enterprise",
+   "link": "https://www.opensourcealternatives.to/item/gitdeck",
+   "repo": "https://github.com/debba/gitdeck",
+   "tags": [
+    "Git",
+    "DevOps Tools",
+    "Project Management"
+   ],
+   "github_stars": "398"
+  },
+  {
+   "name": "trueforge",
+   "description": "Open-source agent harness for reliable, long-running LLM agents",
+   "alternative_to": "Zapier",
+   "link": "https://www.opensourcealternatives.to/item/trueforge",
+   "repo": "https://github.com/truefoundry/trueforge",
+   "tags": [
+    "LLM",
+    "AI Agents",
+    "Developer Tools"
+   ],
+   "github_stars": "4.8"
+  },
+  {
+   "name": "kilocode",
+   "description": "Open source AI coding agent. 500+ models at zero markup.",
+   "alternative_to": "Cursor and GitHub Copilot",
+   "link": "https://www.opensourcealternatives.to/item/kilocode",
+   "repo": "https://github.com/Kilo-Org/kilocode",
+   "tags": [
+    "AI Coding Assistant",
+    "Developer Tools",
+    "CI/CD Platforms"
+   ],
+   "github_stars": "27.1"
+  },
+  {
+   "name": "OpenMausBot",
+   "description": "Your AI agent team in a chat app, local-first and MIT licensed",
+   "alternative_to": "Grok Bot and Lindy AI",
+   "link": "https://www.opensourcealternatives.to/item/openmausbot",
+   "repo": "https://github.com/milind-soni/OpenMausBot",
+   "tags": [
+    "AI Agents",
+    "Local-first",
+    "Chatbots"
+   ],
+   "github_stars": "1.8"
+  },
+  {
+   "name": "berd",
+   "description": "Self-hosted desktop app for AI agent work, model-agnostic by design.",
+   "alternative_to": "CrewAI and Dify Cloud",
+   "link": "https://www.opensourcealternatives.to/item/berd",
+   "repo": "https://github.com/block/berd",
+   "tags": [
+    "AI Agents",
+    "Developer Tools",
+    "Open Core"
+   ],
+   "github_stars": "818"
+  },
+  {
+   "name": "rakazo",
+   "description": "AI teammates you own: your keys, your model, your machine.",
+   "alternative_to": "Grok Bot and Lindy AI",
+   "link": "https://www.opensourcealternatives.to/item/rakazo",
+   "repo": "https://github.com/elie222/rakazo",
+   "tags": [
+    "AI Agents",
+    "Self Hosted",
+    "Workflow Automation"
+   ],
+   "github_stars": "1.5"
+  },
+  {
+   "name": "Flare",
+   "description": "Graph-first IDE for agentic coding and real-time oversight",
+   "alternative_to": "Vertex AI, n8n and Make",
+   "link": "https://www.opensourcealternatives.to/item/flare",
+   "repo": "https://github.com/AlgoNoRhythm/Flare",
+   "tags": [
+    "Developer Tools",
+    "AI Coding Assistant",
+    "Git"
+   ],
+   "github_stars": "182"
+  },
+  {
+   "name": "rtk",
+   "description": "CLI proxy that removes 89% of agent context noise on average",
+   "alternative_to": "TokenShift and Portkey",
+   "link": "https://www.opensourcealternatives.to/item/rtk",
+   "repo": "https://github.com/rtk-ai/rtk",
+   "tags": [
+    "CLI",
+    "AI Coding Assistant",
+    "Developer Tools"
+   ],
+   "github_stars": "77.7"
+  },
+  {
+   "name": "graphify",
+   "description": "Turn your codebase into a knowledge graph your AI can trace and cite.",
+   "alternative_to": "Sourcegraph Cody",
+   "link": "https://www.opensourcealternatives.to/item/graphify",
+   "repo": "https://github.com/Graphify-Labs/graphify",
+   "tags": [
+    "AI Coding Assistant",
+    "Knowledge Management",
+    "Developer Tools"
+   ],
+   "github_stars": "112"
+  },
+  {
+   "name": "screenshot-to-code",
+   "description": "Turn any design screenshot into clean, working code with AI",
+   "alternative_to": "Google Stitch",
+   "link": "https://www.opensourcealternatives.to/item/screenshot-to-code",
+   "repo": "https://github.com/abi/screenshot-to-code",
+   "tags": [
+    "UI/UX Design",
+    "Developer Tools",
+    "Low-code"
+   ],
+   "github_stars": "75.6"
+  },
+  {
+   "name": "genlayer-project-boilerplate",
+   "description": "Build GenLayer intelligent contracts in minutes, not days",
+   "alternative_to": "Unity",
+   "link": "https://www.opensourcealternatives.to/item/genlayer-project-boilerplate",
+   "repo": "https://github.com/genlayerlabs/genlayer-project-boilerplate",
+   "tags": [
+    "LLM",
+    "Developer Tools",
+    "Web3"
+   ],
+   "github_stars": "16.7"
+  },
+  {
+   "name": "nautilus_trader",
+   "description": "Rust-native trading engine with research-to-live parity",
+   "alternative_to": "QuantConnect",
+   "link": "https://www.opensourcealternatives.to/item/nautilus-trader",
+   "repo": "https://github.com/nautechsystems/nautilus_trader",
+   "tags": [
+    "Infrastructure as Code",
+    "Developer Tools",
+    "AI Agents"
+   ],
+   "github_stars": "28"
+  },
+  {
+   "name": "omlx",
+   "description": "Fast LLM inference for Apple Silicon with persistent SSD KV caching",
+   "alternative_to": "Msty Studio",
+   "link": "https://www.opensourcealternatives.to/item/omlx",
+   "repo": "https://github.com/jundot/omlx",
+   "tags": [
+    "LLM",
+    "macOS",
+    "Developer Tools"
+   ],
+   "github_stars": "20.9"
+  },
+  {
+   "name": "llmfit",
+   "description": "One command to rank every LLM against your hardware.",
+   "alternative_to": "NVIDIA AI Enterprise",
+   "link": "https://www.opensourcealternatives.to/item/llmfit",
+   "repo": "https://github.com/AlexsJones/llmfit",
+   "tags": [
+    "LLM",
+    "Developer Tools",
+    "AI Coding Assistant"
+   ],
+   "github_stars": "34.5"
+  },
+  {
+   "name": "ai-memory",
+   "description": "Persist AI agent context across sessions and tool switches",
+   "alternative_to": "Mem0, Zep and Hindsight",
+   "link": "https://www.opensourcealternatives.to/item/ai-memory",
+   "repo": "https://github.com/akitaonrails/ai-memory",
+   "tags": [
+    "LLM",
+    "Knowledge Management",
+    "AI Coding Assistant"
+   ],
+   "github_stars": "5.1"
+  },
+  {
+   "name": "career-ops",
+   "description": "AI job search agent that scores listings and tailors CVs locally.",
+   "alternative_to": "AIApply and Careerflow",
+   "link": "https://www.opensourcealternatives.to/item/career-ops",
+   "repo": "https://github.com/santifer/career-ops",
+   "tags": [
+    "AI Coding Assistant",
+    "Local-first",
+    "CLI"
+   ],
+   "github_stars": "69.1"
+  },
+  {
+   "name": "texpile",
+   "description": "Local, offline LaTeX and Typst editor with live preview",
+   "alternative_to": "Overleaf, Typst and HackMD",
+   "link": "https://www.opensourcealternatives.to/item/texpile",
+   "repo": "https://github.com/texpile/texpile",
+   "tags": [
+    "Developer Tools",
+    "Local-first",
+    "Self Hosted"
+   ],
+   "github_stars": "172"
+  },
+  {
+   "name": "omarchy",
+   "description": "DHH's opinionated Linux distribution for developer workstations",
+   "alternative_to": "macOS, Windows and ChromeOS",
+   "link": "https://www.opensourcealternatives.to/item/omarchy",
+   "repo": "https://github.com/basecamp/omarchy",
+   "tags": [
+    "Developer Tools",
+    "macOS",
+    "CLI"
+   ],
+   "github_stars": "31.9"
+  },
+  {
+   "name": "vexa",
+   "description": "Self-hosted meeting bot API for Meet, Teams, Zoom, and Jitsi",
+   "alternative_to": "Otter.ai and Fireflies.ai",
+   "link": "https://www.opensourcealternatives.to/item/vexa",
+   "repo": "https://github.com/Vexa-ai/vexa",
+   "tags": [
+    "Open Core",
+    "Self Hosted",
+    "AI Agents"
+   ],
+   "github_stars": "2.7"
+  },
+  {
+   "name": "Soup",
+   "description": "Fine-tune any LLM on a 4 GB GPU, one YAML config",
+   "alternative_to": "Together AI",
+   "link": "https://www.opensourcealternatives.to/item/soup",
+   "repo": "https://github.com/MakazhanAlpamys/Soup",
+   "tags": [
+    "LLM",
+    "Developer Tools",
+    "AI Coding Assistant"
+   ],
+   "github_stars": "3.5"
+  },
+  {
+   "name": "RAGMeUp",
+   "description": "Open source RAG framework for any dataset or LLM",
+   "alternative_to": "Vectara and Ragie AI",
+   "link": "https://www.opensourcealternatives.to/item/ragmeup",
+   "repo": "https://github.com/SensAI-PT/RAGMeUp",
+   "tags": [
+    "LLM",
+    "RAG",
+    "Docker Management"
+   ],
+   "github_stars": "679"
+  },
+  {
+   "name": "dograh",
+   "description": "Open source voice agent builder with telephony and BYOK AI support",
+   "alternative_to": "Voiceflow, Vapi and Retell AI",
+   "link": "https://www.opensourcealternatives.to/item/dograh",
+   "repo": "https://github.com/dograh-hq/dograh",
+   "tags": [
+    "Workflow Automation",
+    "AI Agents",
+    "Chatbots"
+   ],
+   "github_stars": "5.5"
+  },
+  {
+   "name": "RealtimeSTT",
+   "description": "Real-time speech-to-text library with VAD and wake words",
+   "alternative_to": "Deepgram and AssemblyAI",
+   "link": "https://www.opensourcealternatives.to/item/realtimestt",
+   "repo": "https://github.com/KoljaB/RealtimeSTT",
+   "tags": [
+    "AI Coding Assistant"
+   ],
+   "github_stars": "10.1"
+  },
+  {
+   "name": "stt",
+   "description": "Local speech-to-text with multi-format output and GPU acceleration",
+   "alternative_to": "HeyGen, Rask AI and Maestra",
+   "link": "https://www.opensourcealternatives.to/item/stt",
+   "repo": "https://github.com/jianchang512/stt",
+   "tags": [
+    "AI Coding Assistant",
+    "Video",
+    "Open Core"
+   ],
+   "github_stars": "4.7"
+  },
+  {
+   "name": "whisper-asr-webservice",
+   "description": "Self-hosted speech recognition API built on OpenAI Whisper",
+   "alternative_to": "Deepgram",
+   "link": "https://www.opensourcealternatives.to/item/whisper-asr-webservice",
+   "repo": "https://github.com/ahmetoner/whisper-asr-webservice",
+   "tags": [
+    "LLM",
+    "AI Coding Assistant",
+    "Chatbots"
+   ],
+   "github_stars": "3.3"
+  },
+  {
+   "name": "LiveCaptions-Translator",
+   "description": "Real-time audio translation for Windows, powered by LLMs",
+   "alternative_to": "",
+   "link": "https://www.opensourcealternatives.to/item/livecaptions-translator",
+   "repo": "https://github.com/SakiRinn/LiveCaptions-Translator",
+   "tags": [
+    "LLM",
+    "AI Coding Assistant",
+    "Chatbots"
+   ],
+   "github_stars": "3.6"
+  },
+  {
+   "name": "whishper",
+   "description": "Local speech-to-text transcription and subtitling with a web UI",
+   "alternative_to": "Otter.ai and Descript",
+   "link": "https://www.opensourcealternatives.to/item/whishper",
+   "repo": "https://github.com/pluja/whishper",
+   "tags": [
+    "AI Coding Assistant",
+    "Self Hosted",
+    "Video"
+   ],
+   "github_stars": "3.1"
+  },
+  {
+   "name": "Cyrus",
+   "description": "Systems language: manual memory, no GC, LLVM-native compilation",
+   "alternative_to": "Google Firebase",
+   "link": "https://www.opensourcealternatives.to/item/cyrus",
+   "repo": "https://github.com/cyrus-lang/Cyrus",
+   "tags": [
+    "Developer Tools",
+    "Infrastructure as Code",
+    "Cloud Native"
+   ],
+   "github_stars": "193"
+  },
+  {
+   "name": "material-ui",
+   "description": "Open source React components for Google's Material Design",
+   "alternative_to": "KendoReact",
+   "link": "https://www.opensourcealternatives.to/item/material-ui",
+   "repo": "https://github.com/mui/material-ui",
+   "tags": [
+    "UI/UX Design",
+    "Developer Tools"
+   ],
+   "github_stars": "99"
+  },
+  {
+   "name": "ego-lite",
+   "description": "AI agent browser with shared Chrome state, zero cost",
+   "alternative_to": "Browserbase and Bright Data",
+   "link": "https://www.opensourcealternatives.to/item/ego-lite",
+   "repo": "https://github.com/citrolabs/ego-lite",
+   "tags": [
+    "AI Agents",
+    "Developer Tools",
+    "Scraping"
+   ],
+   "github_stars": "14.2"
+  },
+  {
+   "name": "r3",
+   "description": "Minimalist Forth language for games and systems programming",
+   "alternative_to": "Unity and Summer Engine",
+   "link": "https://www.opensourcealternatives.to/item/r3",
+   "repo": "https://github.com/phreda4/r3",
+   "tags": [
+    "Developer Tools",
+    "Coding",
+    "Self Hosted"
+   ],
+   "github_stars": "224"
+  },
+  {
+   "name": "mex",
+   "description": "Persistent memory and code graph for AI coding agents",
+   "alternative_to": "Mem0, Zep and Augment Code",
+   "link": "https://www.opensourcealternatives.to/item/mex",
+   "repo": "https://github.com/mex-memory/mex",
+   "tags": [
+    "AI Coding Assistant",
+    "Knowledge Management",
+    "Developer Tools"
+   ],
+   "github_stars": "1.5"
+  },
+  {
+   "name": "repowise",
+   "description": "Codebase intelligence: MCP tools for agents, health scores for teams.",
+   "alternative_to": "CodeAnt AI and SonarCloud",
+   "link": "https://www.opensourcealternatives.to/item/repowise",
+   "repo": "https://github.com/repowise-dev/repowise",
+   "tags": [
+    "AI Coding Assistant",
+    "Developer Tools",
+    "Git"
+   ],
+   "github_stars": "6.3"
+  },
+  {
+   "name": "Switchyard",
+   "description": "LLM proxy with API translation and multi-backend routing",
+   "alternative_to": "Portkey and OpenRouter",
+   "link": "https://www.opensourcealternatives.to/item/switchyard",
+   "repo": "https://github.com/NVIDIA-NeMo/Switchyard",
+   "tags": [
+    "LLM",
+    "Developer Tools",
+    "AI Coding Assistant"
+   ],
+   "github_stars": "2.6"
+  },
+  {
+   "name": "ragflow",
+   "description": "Open-source RAG engine with document parsing and agent orchestration",
+   "alternative_to": "Vectara and Azure AI Search",
+   "link": "https://www.opensourcealternatives.to/item/ragflow",
+   "repo": "https://github.com/infiniflow/ragflow",
+   "tags": [
+    "LLM",
+    "AI Agents",
+    "RAG"
+   ],
+   "github_stars": "89.5"
+  },
+  {
+   "name": "code-graph-rag",
+   "description": "AI-powered codebase analysis with knowledge graphs",
+   "alternative_to": "Augment AI",
+   "link": "https://www.opensourcealternatives.to/item/code-graph-rag",
+   "repo": "https://github.com/vitali87/code-graph-rag",
+   "tags": [
+    "AI Coding Assistant",
+    "Developer Tools",
+    "Knowledge Management"
+   ],
+   "github_stars": "4.8"
+  },
+  {
+   "name": "limen",
+   "description": "Composable authentication for modern Go backends",
+   "alternative_to": "Auth0, Okta and WorkOS",
+   "link": "https://www.opensourcealternatives.to/item/limen",
+   "repo": "https://github.com/thecodearcher/limen",
+   "tags": [
+    "Authentication",
+    "Developer Tools",
+    "Security"
+   ],
+   "github_stars": "517"
+  },
+  {
+   "name": "prime-agent",
+   "description": "Automate coding workflows with a self-improving agent",
+   "alternative_to": "Devin",
+   "link": "https://www.opensourcealternatives.to/item/prime-agent",
+   "repo": "https://github.com/PrimeIntellect-ai/prime-agent",
+   "tags": [
+    "AI Coding Assistant",
+    "Developer Tools",
+    "Workflow Automation"
+   ],
+   "github_stars": "19"
+  },
+  {
+   "name": "ODS",
+   "description": "Turn any computer into a private AI server",
+   "alternative_to": "OpenAI Platform",
+   "link": "https://www.opensourcealternatives.to/item/ods",
+   "repo": "https://github.com/Osmantic/ODS",
+   "tags": [
+    "Self Hosted",
+    "Server Management",
+    "Cloud Native"
+   ],
+   "github_stars": "4.8"
+  },
+  {
+   "name": "ComfyUI",
+   "description": "Node-based interface for visual AI content creation",
+   "alternative_to": "Higgsfield AI and Krea AI",
+   "link": "https://www.opensourcealternatives.to/item/comfyui",
+   "repo": "https://github.com/Comfy-Org/ComfyUI",
+   "tags": [
+    "AI Coding Assistant",
+    "Video",
+    "3D Modeling"
+   ],
+   "github_stars": "130.5"
+  },
+  {
+   "name": "t3code",
+   "description": "Control your coding agents from one interface",
+   "alternative_to": "GitHub Copilot and Cursor",
+   "link": "https://www.opensourcealternatives.to/item/t3code",
+   "repo": "https://github.com/pingdotgg/t3code",
+   "tags": [
+    "AI Coding Assistant",
+    "Developer Tools",
+    "Workflow Automation"
+   ],
+   "github_stars": "20.9"
+  },
+  {
+   "name": "transformers",
+   "description": "Model-definition framework for state-of-the-art ML",
+   "alternative_to": "Google Vertex AI",
+   "link": "https://www.opensourcealternatives.to/item/transformers",
+   "repo": "https://github.com/huggingface/transformers",
+   "tags": [
+    "LLM",
+    "AI Coding Assistant",
+    "Chatbots"
+   ],
+   "github_stars": "164.6"
+  },
+  {
+   "name": "manim",
+   "description": "Programmatic animation engine for explanatory math videos",
+   "alternative_to": "Animo and Mathify",
+   "link": "https://www.opensourcealternatives.to/item/manim",
+   "repo": "https://github.com/3b1b/manim",
+   "tags": [
+    "Video",
+    "Developer Tools"
+   ],
+   "github_stars": "92.1"
+  },
+  {
+   "name": "tuicr",
+   "description": "Terminal UI for code review with vim keybindings and GitHub-style",
+   "alternative_to": "GitHub and GitLab",
+   "link": "https://www.opensourcealternatives.to/item/tuicr",
+   "repo": "https://github.com/agavra/tuicr",
+   "tags": [
+    "Developer Tools",
+    "CLI",
+    "Git"
+   ],
+   "github_stars": "2.9"
+  },
+  {
+   "name": "DwarfStar (ds4)",
+   "description": "Local inference engine for DeepSeek V4 Flash/PRO and GLM 5.2",
+   "alternative_to": "",
+   "link": "https://www.opensourcealternatives.to/item/dwarfstar-ds4",
+   "repo": "https://github.com/antirez/ds4",
+   "tags": [
+    "LLM",
+    "LLMOps",
+    "AI Agents"
+   ],
+   "github_stars": "21.9"
+  },
+  {
+   "name": "Embabel",
+   "description": "Agentic AI framework for the JVM",
+   "alternative_to": "",
+   "link": "https://www.opensourcealternatives.to/item/embabel",
+   "repo": "https://github.com/embabel/embabel-agent",
+   "tags": [
+    "AI Agents",
+    "AI SDK",
+    "Developer Framework"
+   ],
+   "github_stars": "4.4"
+  },
+  {
+   "name": "Reasonix",
+   "description": "Open-source AI coding agent you can leave running locally.",
+   "alternative_to": "GitHub Copilot and Cursor",
+   "link": "https://www.opensourcealternatives.to/item/reasonix",
+   "repo": "https://github.com/esengine/DeepSeek-Reasonix",
+   "tags": [
+    "AI Agents",
+    "AI Coding Assistant",
+    "Developer Tools"
+   ],
+   "github_stars": "35.2"
+  },
+  {
+   "name": "AirLLM",
+   "description": "Run huge LLMs on low-end GPUs with minimal VRAM",
+   "alternative_to": "",
+   "link": "https://www.opensourcealternatives.to/item/airllm",
+   "repo": "https://github.com/lyogavin/airllm",
+   "tags": [
+    "LLM",
+    "LLMOps",
+    "AI SDK"
+   ],
+   "github_stars": "32.6"
+  },
+  {
+   "name": "no-mistakes",
+   "description": "Automate clean PRs with gated Git pushes",
+   "alternative_to": "GitHub Copilot",
+   "link": "https://www.opensourcealternatives.to/item/no-mistakes",
+   "repo": "https://github.com/features/copilot",
+   "tags": [
+    "Git",
+    "DevOps Tools",
+    "AI Coding Assistant"
+   ],
+   "github_stars": "7.9"
+  },
+  {
+   "name": "page-agent",
+   "description": "AI-powered GUI Agent for your website",
+   "alternative_to": "Microsoft Copilot Studio",
+   "link": "https://www.opensourcealternatives.to/item/page-agent",
+   "repo": "https://github.com/alibaba/page-agent",
+   "tags": [
+    "AI Agents",
+    "Customer Support",
+    "Workflow Automation"
+   ],
+   "github_stars": "28.9"
+  },
+  {
+   "name": "agent-toolkit-for-aws",
+   "description": "Empower AI agents to build and manage AWS applications",
+   "alternative_to": "",
+   "link": "https://www.opensourcealternatives.to/item/agent-toolkit-for-aws",
+   "repo": "https://github.com/aws/agent-toolkit-for-aws",
+   "tags": [
+    "AI Coding Assistant",
+    "Developer Tools",
+    "Cloud Native"
+   ],
+   "github_stars": "2.4"
+  },
+  {
+   "name": "cognee",
+   "description": "Persistent memory for AI agents across sessions",
+   "alternative_to": "Pinecone",
+   "link": "https://www.opensourcealternatives.to/item/cognee",
+   "repo": "https://github.com/topoteretes/cognee",
+   "tags": [
+    "LLM",
+    "Knowledge Management",
+    "AI Agents"
+   ],
+   "github_stars": "30.3"
+  },
+  {
+   "name": "hiring-agent",
+   "description": "AI-powered resume evaluation and scoring tool",
+   "alternative_to": "BambooHR",
+   "link": "https://www.opensourcealternatives.to/item/hiring-agent",
+   "repo": "https://github.com/interviewstreet/hiring-agent",
+   "tags": [
+    "LLM",
+    "AI Agents",
+    "Developer Tools"
+   ],
+   "github_stars": "7"
+  },
+  {
+   "name": "deer-flow",
+   "description": "Build super agents with DeerFlow's powerful framework",
+   "alternative_to": "Devin AI",
+   "link": "https://www.opensourcealternatives.to/item/deer-flow",
+   "repo": "https://github.com/bytedance/deer-flow",
+   "tags": [
+    "LLM",
+    "AI Coding Assistant",
+    "Developer Tools"
+   ],
+   "github_stars": "81.1"
+  },
+  {
+   "name": "iptv",
+   "description": "136k+ public TV channels, free M3U playlists and EPG data",
+   "alternative_to": "Plex and Nielsen Gracenote",
+   "link": "https://www.opensourcealternatives.to/item/iptv",
+   "repo": "https://github.com/iptv-org/iptv",
+   "tags": [
+    "Video",
+    "Developer Tools",
+    "Social Media"
+   ],
+   "github_stars": "136.8"
+  },
+  {
+   "name": "codebase-memory-mcp",
+   "description": "Efficient code intelligence for AI coding agents",
+   "alternative_to": "Cursor",
+   "link": "https://www.opensourcealternatives.to/item/codebase-memory-mcp",
+   "repo": "https://github.com/DeusData/codebase-memory-mcp",
+   "tags": [
+    "AI Coding Assistant",
+    "Developer Tools",
+    "Knowledge Management"
+   ],
+   "github_stars": "40.8"
+  },
+  {
+   "name": "LMCache",
+   "description": "Accelerate AI applications with caching technology",
+   "alternative_to": "Amazon SageMaker",
+   "link": "https://www.opensourcealternatives.to/item/lmcache",
+   "repo": "https://github.com/LMCache/LMCache",
+   "tags": [
+    "LLM",
+    "Knowledge Management",
+    "Developer Tools"
+   ],
+   "github_stars": "11.6"
+  },
+  {
+   "name": "iroh",
+   "description": "Connect devices seamlessly without relying on the cloud.",
+   "alternative_to": "ngrok and Cloudflare Tunnel",
+   "link": "https://www.opensourcealternatives.to/item/iroh",
+   "repo": "https://github.com/n0-computer/iroh",
+   "tags": [
+    "Infrastructure as Code",
+    "Cloud Native",
+    "Developer Tools"
+   ],
+   "github_stars": "12.4"
+  },
+  {
+   "name": "swc",
+   "description": "Fast JavaScript/TypeScript compilation and bundling",
+   "alternative_to": "Vercel and Netlify",
+   "link": "https://www.opensourcealternatives.to/item/swc",
+   "repo": "https://github.com/swc-project/swc",
+   "tags": [
+    "Developer Tools"
+   ],
+   "github_stars": "34.2"
+  },
+  {
+   "name": "ECC",
+   "description": "Cross-harness skills, agents, and security for AI coding",
+   "alternative_to": "Devin and GitHub Copilot",
+   "link": "https://www.opensourcealternatives.to/item/ecc",
+   "repo": "https://github.com/affaan-m/ECC",
+   "tags": [
+    "AI Coding Assistant",
+    "Developer Tools"
+   ],
+   "github_stars": "244"
+  },
+  {
+   "name": "headroom",
+   "description": "Compress LLM context before it reaches the model",
+   "alternative_to": "The Token Company",
+   "link": "https://www.opensourcealternatives.to/item/headroom",
+   "repo": "https://github.com/chopratejas/headroom",
+   "tags": [
+    "LLM",
+    "AI Coding Assistant",
+    "Developer Tools"
+   ],
+   "github_stars": "67.9"
+  },
+  {
+   "name": "Agent-Reach",
+   "description": "Give agents local web and social-source access",
+   "alternative_to": "Firecrawl and Bright Data",
+   "link": "https://www.opensourcealternatives.to/item/agent-reach",
+   "repo": "https://github.com/Panniantong/Agent-Reach",
+   "tags": [
+    "AI Agents",
+    "Scraping",
+    "Social Media"
+   ],
+   "github_stars": "76.3"
+  },
+  {
+   "name": "compound-engineering-plugin",
+   "description": "Add CE planning and review workflows to agents",
+   "alternative_to": "",
+   "link": "https://www.opensourcealternatives.to/item/compound-engineering-plugin",
+   "repo": "https://github.com/EveryInc/compound-engineering-plugin",
+   "tags": [
+    "AI Coding Assistant",
+    "Developer Tools",
+    "Workflow Automation"
+   ],
+   "github_stars": "24.7"
+  },
+  {
+   "name": "codegraph",
+   "description": "Transform codebases into queryable knowledge graphs",
+   "alternative_to": "Sourcegraph Cody",
+   "link": "https://www.opensourcealternatives.to/item/codegraph",
+   "repo": "https://github.com/features/copilot",
+   "tags": [
+    "AI Coding Assistant",
+    "Knowledge Management",
+    "Developer Tools"
+   ],
+   "github_stars": "68.5"
+  },
+  {
+   "name": "agentmemory",
+   "description": "Persistent memory for AI coding agents",
+   "alternative_to": "Cursor and Claude Code",
+   "link": "https://www.opensourcealternatives.to/item/agentmemory",
+   "repo": "https://github.com/features/copilot",
+   "tags": [
+    "AI Coding Assistant",
+    "Knowledge Management",
+    "Developer Tools"
+   ],
+   "github_stars": "27.7"
+  },
+  {
+   "name": "Understand-Anything",
+   "description": "Interactive knowledge graphs for codebases",
+   "alternative_to": "",
+   "link": "https://www.opensourcealternatives.to/item/understand-anything",
+   "repo": "https://github.com/features/copilot",
+   "tags": [
+    "Knowledge Management",
+    "AI Coding Assistant",
+    "Data Visualization"
+   ],
+   "github_stars": "80.9"
+  },
+  {
+   "name": "CLI-Anything",
+   "description": "Empower AI agents with agent-native CLIs",
+   "alternative_to": "GitHub Copilot",
+   "link": "https://www.opensourcealternatives.to/item/cli-anything",
+   "repo": "https://github.com/HKUDS/CLI-Anything",
+   "tags": [
+    "CLI",
+    "AI Agents",
+    "Developer Tools"
+   ],
+   "github_stars": "48.5"
+  },
+  {
+   "name": "oh-my-pi",
+   "description": "A coding agent with the IDE wired in",
+   "alternative_to": "Claude Code",
+   "link": "https://www.opensourcealternatives.to/item/oh-my-pi",
+   "repo": "https://github.com/can1357/oh-my-pi",
+   "tags": [
+    "AI Coding Assistant",
+    "Developer Tools",
+    "CLI"
+   ],
+   "github_stars": "28.1"
+  },
+  {
+   "name": "orca",
+   "description": "The ultimate IDE for coding agents",
+   "alternative_to": "Cursor and GitHub Copilot",
+   "link": "https://www.opensourcealternatives.to/item/orca",
+   "repo": "https://github.com/features/copilot",
+   "tags": [
+    "AI Coding Assistant",
+    "Developer Tools",
+    "CLI"
+   ],
+   "github_stars": "56.2"
+  },
+  {
+   "name": "pyrefly",
+   "description": "Lightning-fast type checking for Python",
+   "alternative_to": "PyCharm Professional",
+   "link": "https://www.opensourcealternatives.to/item/pyrefly",
+   "repo": "https://github.com/facebook/pyrefly",
+   "tags": [
+    "Developer Tools",
+    "AI Coding Assistant",
+    "Code Editors"
+   ],
+   "github_stars": "6.9"
+  },
+  {
+   "name": "superpowers",
+   "description": "Skill-based workflows for coding agents",
+   "alternative_to": "Claude Code and Cursor",
+   "link": "https://www.opensourcealternatives.to/item/superpowers",
+   "repo": "https://github.com/obra/superpowers",
+   "tags": [
+    "AI Coding Assistant",
+    "Developer Tools",
+    "Workflow Automation"
+   ],
+   "github_stars": "278.1"
+  },
+  {
+   "name": "RuView",
+   "description": "Intelligent AI agents for real-world applications",
+   "alternative_to": "AWS IoT",
+   "link": "https://www.opensourcealternatives.to/item/ruview",
+   "repo": "https://github.com/ruvnet/RuView",
+   "tags": [
+    "AI Agents",
+    "IoT",
+    "Developer Tools"
+   ],
+   "github_stars": "91.9"
+  },
+  {
+   "name": "hysteria",
+   "description": "Fast and censorship-resistant proxy solution",
+   "alternative_to": "NordVPN and Mullvad VPN",
+   "link": "https://www.opensourcealternatives.to/item/hysteria",
+   "repo": "https://github.com/apernet/hysteria",
+   "tags": [
+    "Infrastructure as Code",
+    "Cloud Native",
+    "Developer Tools"
+   ],
+   "github_stars": "22.4"
+  },
+  {
+   "name": "react-doctor",
+   "description": "Diagnose and fix your React code effortlessly",
+   "alternative_to": "SonarQube",
+   "link": "https://www.opensourcealternatives.to/item/react-doctor",
+   "repo": "https://github.com/millionco/react-doctor",
+   "tags": [
+    "Developer Tools",
+    "AI Coding Assistant",
+    "Coding"
+   ],
+   "github_stars": "14.6"
+  },
+  {
+   "name": "diagrams.net",
+   "description": "Create portable diagrams without vendor lock-in",
+   "alternative_to": "Lucidchart and EdrawMax",
+   "link": "https://www.opensourcealternatives.to/item/diagrams-net",
+   "repo": "https://github.com/jgraph/drawio",
+   "tags": [
+    "UI/UX Design",
+    "Self Hosted",
+    "Diagramming"
+   ],
+   "github_stars": "7.8"
+  },
+  {
+   "name": "jcode",
+   "description": "Next-gen coding agent harness for efficient workflows",
+   "alternative_to": "GitHub Copilot and Claude Code",
+   "link": "https://www.opensourcealternatives.to/item/jcode",
+   "repo": "https://github.com/1jehuang/jcode",
+   "tags": [
+    "AI Coding Assistant",
+    "Developer Tools",
+    "Workflow Automation"
+   ],
+   "github_stars": "18.7"
+  },
+  {
+   "name": "RuFlo",
+   "description": "Deploy intelligent AI agents with ease.",
+   "alternative_to": "Amazon Bedrock Agents",
+   "link": "https://www.opensourcealternatives.to/item/ruflo",
+   "repo": "https://github.com/ruvnet/ruflo",
+   "tags": [
+    "AI Agents",
+    "Developer Tools",
+    "Infrastructure as Code"
+   ],
+   "github_stars": "69.6"
+  },
+  {
+   "name": "CocoIndex",
+   "description": "Incremental data framework for AI agents.",
+   "alternative_to": "Fivetran and Databricks",
+   "link": "https://www.opensourcealternatives.to/item/cocoindex",
+   "repo": "https://github.com/cocoindex-io/cocoindex",
+   "tags": [
+    "AI Agents",
+    "Knowledge Management",
+    "Developer Tools"
+   ],
+   "github_stars": "11.4"
+  },
+  {
+   "name": "Skills for Real Engineers",
+   "description": "Empower AI coding agents with essential engineering skills.",
+   "alternative_to": "",
+   "link": "https://www.opensourcealternatives.to/item/skills-for-real-engineers",
+   "repo": "https://github.com/mattpocock/skills",
+   "tags": [
+    "AI Coding Assistant",
+    "Developer Tools",
+    "Workflow Automation"
+   ],
+   "github_stars": "240.2"
+  },
+  {
+   "name": "DeepSeek TUI",
+   "description": "A coding agent that lives in your terminal.",
+   "alternative_to": "Claude Code and Cursor",
+   "link": "https://www.opensourcealternatives.to/item/deepseek-tui",
+   "repo": "https://github.com/features/copilot",
+   "tags": [
+    "CLI",
+    "AI Coding Assistant",
+    "Developer Tools"
+   ],
+   "github_stars": "40.9"
+  },
+  {
+   "name": "9Router",
+   "description": "Smart AI Router with 3-Tier Fallback",
+   "alternative_to": "GitHub Copilot and Cursor",
+   "link": "https://www.opensourcealternatives.to/item/9router",
+   "repo": "https://github.com/decolua/9router",
+   "tags": [
+    "AI Coding Assistant",
+    "Developer Tools",
+    "LLMOps"
+   ],
+   "github_stars": "26.6"
+  },
+  {
+   "name": "Local Deep Research",
+   "description": "Your AI research assistant, fully local and encrypted.",
+   "alternative_to": "Perplexity AI",
+   "link": "https://www.opensourcealternatives.to/item/local-deep-research",
+   "repo": "https://github.com/LearningCircuit/local-deep-research",
+   "tags": [
+    "LLM",
+    "Knowledge Management",
+    "AI Search Tools"
+   ],
+   "github_stars": "9"
+  },
+  {
+   "name": "Flue Framework",
+   "description": "Build powerful, autonomous agents with TypeScript.",
+   "alternative_to": "Devin AI",
+   "link": "https://www.opensourcealternatives.to/item/flue-framework",
+   "repo": "https://github.com/features/copilot",
+   "tags": [
+    "AI Agents",
+    "Chatbots",
+    "Developer Tools"
+   ],
+   "github_stars": "8.1"
+  },
+  {
+   "name": "PageIndex",
+   "description": "AI-powered document understanding with explainable retrieval",
+   "alternative_to": "Amazon Kendra",
+   "link": "https://www.opensourcealternatives.to/item/pageindex",
+   "repo": "https://github.com/VectifyAI/PageIndex",
+   "tags": [
+    "LLM",
+    "Knowledge Management",
+    "AI Search Tools"
+   ],
+   "github_stars": "35.4"
+  },
+  {
+   "name": "Agent Skills",
+   "description": "Structured workflows for AI coding agents.",
+   "alternative_to": "GitHub Copilot",
+   "link": "https://www.opensourcealternatives.to/item/agent-skills",
+   "repo": "https://github.com/addyosmani/agent-skills",
+   "tags": [
+    "AI Coding Assistant",
+    "Developer Tools",
+    "CI/CD Platforms"
+   ],
+   "github_stars": "90.5"
+  },
+  {
+   "name": "Shotcut",
+   "description": "Open source video editor for native timeline workflows on desktop",
+   "alternative_to": "Adobe Premiere Pro",
+   "link": "https://www.opensourcealternatives.to/item/shotcut",
+   "repo": "https://github.com/mltframework/shotcut",
+   "tags": [
+    "Developer Tools",
+    "Video",
+    "macOS"
+   ],
+   "github_stars": "15"
+  },
+  {
+   "name": "Maigret",
+   "description": "Collect OSINT data by username effortlessly",
+   "alternative_to": "Recorded Future",
+   "link": "https://www.opensourcealternatives.to/item/maigret",
+   "repo": "https://github.com/soxoj/maigret",
+   "tags": [
+    "Scraping",
+    "Social Media",
+    "Developer Tools"
+   ],
+   "github_stars": "37.1"
+  },
+  {
+   "name": "Tolaria",
+   "description": "Organize your notes with Markdown and Git integration",
+   "alternative_to": "Notion",
+   "link": "https://www.opensourcealternatives.to/item/tolaria",
+   "repo": "https://github.com/refactoringhq/tolaria",
+   "tags": [
+    "Knowledge Management",
+    "Developer Tools",
+    "AI Coding Assistant"
+   ],
+   "github_stars": "19.6"
+  },
+  {
+   "name": "Tabby",
+   "description": "Self-hosted AI coding assistant server for private team deployment",
+   "alternative_to": "GitHub Copilot Enterprise",
+   "link": "https://www.opensourcealternatives.to/item/tabby",
+   "repo": "https://github.com/features/copilot",
+   "tags": [
+    "AI Coding Assistant",
+    "Self Hosted",
+    "Developer Tools"
+   ],
+   "github_stars": "33.8"
+  },
+  {
+   "name": "Goose",
+   "description": "Run repeatable multi-step coding workflows from CLI or desktop",
+   "alternative_to": "Claude Code and Devin AI",
+   "link": "https://www.opensourcealternatives.to/item/goose",
+   "repo": "https://github.com/features/copilot",
+   "tags": [
+    "AI Agents",
+    "Workflow Automation",
+    "Developer Tools"
+   ],
+   "github_stars": "53.6"
+  },
+  {
+   "name": "Aider",
+   "description": "Git-native terminal coding agent for multi-file edits and clean diffs",
+   "alternative_to": "GitHub Copilot and Claude Code",
+   "link": "https://www.opensourcealternatives.to/item/aider",
+   "repo": "https://github.com/features/copilot",
+   "tags": [
+    "AI Coding Assistant",
+    "Developer Tools",
+    "Coding"
+   ],
+   "github_stars": "48.5"
+  },
+  {
+   "name": "OpenHands",
+   "description": "Delegate scoped coding tasks in isolated, reviewable agent sessions",
+   "alternative_to": "GitHub Copilot",
+   "link": "https://www.opensourcealternatives.to/item/openhands",
+   "repo": "https://github.com/features/copilot",
+   "tags": [
+    "AI Agents",
+    "AI Coding Assistant",
+    "LLM"
+   ],
+   "github_stars": "85.5"
+  },
+  {
+   "name": "RAG-Anything",
+   "description": "Comprehensive multimodal document processing framework",
+   "alternative_to": "Pinecone",
+   "link": "https://www.opensourcealternatives.to/item/rag-anything",
+   "repo": "https://github.com/HKUDS/RAG-Anything",
+   "tags": [
+    "RAG",
+    "Self Hosted",
+    "LLMOps"
+   ],
+   "github_stars": "23.1"
+  },
+  {
+   "name": "GenericAgent",
+   "description": "Autonomous agent that evolves skills over time",
+   "alternative_to": "ChatGPT",
+   "link": "https://www.opensourcealternatives.to/item/genericagent",
+   "repo": "https://github.com/lsdefine/GenericAgent",
+   "tags": [
+    "AI Agents",
+    "Workflow Automation",
+    "Task Management"
+   ],
+   "github_stars": "14.1"
+  },
+  {
+   "name": "Claude Context",
+   "description": "Enhance AI coding assistants with semantic code search.",
+   "alternative_to": "Cursor",
+   "link": "https://www.opensourcealternatives.to/item/claude-context",
+   "repo": "https://github.com/zilliztech/claude-context",
+   "tags": [
+    "AI Coding Assistant",
+    "RAG",
+    "LLMOps"
+   ],
+   "github_stars": "12.4"
+  },
+  {
+   "name": "Thunderbolt",
+   "description": "Control your AI infrastructure with Thunderbolt",
+   "alternative_to": "ChatGPT",
+   "link": "https://www.opensourcealternatives.to/item/thunderbolt",
+   "repo": "https://github.com/features/copilot",
+   "tags": [
+    "AI Agents",
+    "LLM",
+    "Self Hosted"
+   ],
+   "github_stars": "4.8"
+  },
+  {
+   "name": "Hermes Agent",
+   "description": "Self-hosted AI agent with persistent memory, multi-channel chat, and model choice across OpenAI, OpenRouter, and custom endpoints.",
+   "alternative_to": "MindStudio and Lindy AI",
+   "link": "https://www.opensourcealternatives.to/item/hermes-agent",
+   "repo": "https://github.com/NousResearch/hermes-agent",
+   "tags": [
+    "AI Agents",
+    "LLM",
+    "Self Hosted"
+   ],
+   "github_stars": "237.7"
+  },
+  {
+   "name": "Evolver",
+   "description": "Self-evolution engine that turns prompt tweaks into assets",
+   "alternative_to": "CrewAI AMP",
+   "link": "https://www.opensourcealternatives.to/item/evolver",
+   "repo": "https://github.com/EvoMap/evolver",
+   "tags": [
+    "AI Agents",
+    "Prompt Engineering",
+    "LLMOps"
+   ],
+   "github_stars": "9"
+  },
+  {
+   "name": "omi",
+   "description": "Open AI memory assistant for meetings, screens, and wearables",
+   "alternative_to": "Granola, Limitless and Mem",
+   "link": "https://www.opensourcealternatives.to/item/omi",
+   "repo": "https://github.com/BasedHardware/omi",
+   "tags": [
+    "Personal Assistant",
+    "Screen Recorders",
+    "Knowledge Management"
+   ],
+   "github_stars": "13.3"
+  },
+  {
+   "name": "VoxCPM",
+   "description": "Tokenizer-free multilingual text-to-speech with voice cloning",
+   "alternative_to": "ElevenLabs",
+   "link": "https://www.opensourcealternatives.to/item/voxcpm",
+   "repo": "https://github.com/OpenBMB/VoxCPM",
+   "tags": [
+    "AI SDK",
+    "LLM",
+    "Developer Tools"
+   ],
+   "github_stars": "36.2"
+  },
+  {
+   "name": "MarkItDown",
+   "description": "Convert PDFs, Office files, and images to Markdown, free",
+   "alternative_to": "Unstructured.io",
+   "link": "https://www.opensourcealternatives.to/item/markitdown",
+   "repo": "https://github.com/microsoft/markitdown",
+   "tags": [
+    "LLM",
+    "LLMOps",
+    "Developer Tools"
+   ],
+   "github_stars": "176.9"
+  },
+  {
+   "name": "Voicebox",
+   "description": "Open source voice synthesis studio for generating audio",
+   "alternative_to": "ElevenLabs",
+   "link": "https://www.opensourcealternatives.to/item/voicebox",
+   "repo": "https://github.com/jamiepine/voicebox",
+   "tags": [
+    "AI SDK",
+    "Developer Tools",
+    "Local-first"
+   ],
+   "github_stars": "51.7"
+  },
+  {
+   "name": "Node-RED",
+   "description": "Low-code event-driven programming with a browser-based editor",
+   "alternative_to": "Microsoft Power Automate",
+   "link": "https://www.opensourcealternatives.to/item/node-red",
+   "repo": "https://github.com/node-red/node-red",
+   "tags": [
+    "Low-code",
+    "Workflow Automation",
+    "Developer Tools"
+   ],
+   "github_stars": "23.6"
+  },
+  {
+   "name": "Godot Engine",
+   "description": "Free open source game engine for 2D and 3D development",
+   "alternative_to": "Unity and Unreal Engine",
+   "link": "https://www.opensourcealternatives.to/item/godot-engine",
+   "repo": "https://github.com/godotengine/godot",
+   "tags": [
+    "Developer Tools",
+    "Coding",
+    "3D Modeling"
+   ],
+   "github_stars": "116.2"
+  },
+  {
+   "name": "Windmill",
+   "description": "Developer platform for scripts, automations, and internal tools",
+   "alternative_to": "Retool, Workato and Make",
+   "link": "https://www.opensourcealternatives.to/item/windmill",
+   "repo": "https://github.com/windmill-labs/windmill",
+   "tags": [
+    "Workflow Orchestration",
+    "Developer Tools",
+    "Low-code"
+   ],
+   "github_stars": "17.7"
+  },
+  {
+   "name": "Caveman",
+   "description": "Token-slashing caveman-speak for cheaper, faster AI code.",
+   "alternative_to": "TokenCrush and WrangleAI",
+   "link": "https://www.opensourcealternatives.to/item/caveman",
+   "repo": "https://github.com/JuliusBrussee/caveman",
+   "tags": [
+    "LLM",
+    "Prompt Engineering",
+    "AI Coding Assistant"
+   ],
+   "github_stars": "101.6"
+  },
+  {
+   "name": "Sentry",
+   "description": "Real-time error tracking with performance monitoring and traces",
+   "alternative_to": "Datadog, New Relic and Rollbar",
+   "link": "https://www.opensourcealternatives.to/item/sentry",
+   "repo": "https://github.com/getsentry/sentry-python",
+   "tags": [
+    "Error Tracking",
+    "Monitoring",
+    "Observability"
+   ],
+   "github_stars": "2.2"
+  },
+  {
+   "name": "DBeaver",
+   "description": "Free open-source database management tool for SQL databases.",
+   "alternative_to": "DataGrip and Navicat Premium",
+   "link": "https://www.opensourcealternatives.to/item/dbeaver",
+   "repo": "https://github.com/dbeaver/dbeaver",
+   "tags": [
+    "Database",
+    "Developer Tools",
+    "Data Visualization"
+   ],
+   "github_stars": "51.6"
+  },
+  {
+   "name": "Open Agents",
+   "description": "Spawn coding agents that run infinitely in parallel cloud VMs",
+   "alternative_to": "Relevance AI",
+   "link": "https://www.opensourcealternatives.to/item/open-agents",
+   "repo": "https://github.com/vercel-labs/open-agents",
+   "tags": [
+    "AI Agents",
+    "AI SDK",
+    "Workflow Automation"
+   ],
+   "github_stars": "5.8"
+  },
+  {
+   "name": "Neovim",
+   "description": "Hyperextensible Vim-based editor with Lua plugin support",
+   "alternative_to": "Sublime Text",
+   "link": "https://www.opensourcealternatives.to/item/neovim",
+   "repo": "https://github.com/neovim/neovim",
+   "tags": [
+    "Code Editors",
+    "Coding",
+    "Developer Tools"
+   ],
+   "github_stars": "102"
+  },
+  {
+   "name": "comma.ai",
+   "description": "Open source AI driver assistance for supported vehicles",
+   "alternative_to": "Tesla Full Self-Driving",
+   "link": "https://www.opensourcealternatives.to/item/commaai",
+   "repo": "https://github.com/commaai/openpilot",
+   "tags": [
+    "IoT",
+    "AI Agents",
+    "Developer Tools"
+   ],
+   "github_stars": "63.5"
+  },
+  {
+   "name": "Huginn",
+   "description": "Self-hosted agents that watch the web and trigger automations",
+   "alternative_to": "Zapier, IFTTT and Make",
+   "link": "https://www.opensourcealternatives.to/item/huginn",
+   "repo": "https://github.com/huginn/huginn",
+   "tags": [
+    "Workflow Automation",
+    "Self Hosted",
+    "AI Agents"
+   ],
+   "github_stars": "49.9"
+  },
+  {
+   "name": "EmDash CMS",
+   "description": "Web-based CMS for creating and managing AI playgrounds",
+   "alternative_to": "GitHub Codespaces",
+   "link": "https://www.opensourcealternatives.to/item/emdash-cms",
+   "repo": "https://github.com/features/codespaces",
+   "tags": [
+    "CMS",
+    "Developer Tools",
+    "Self Hosted"
+   ],
+   "github_stars": "12.1"
+  },
+  {
+   "name": "Gitea",
+   "description": "Self-hosted GitHub alternative with CI, issues, and PRs",
+   "alternative_to": "GitHub Enterprise and GitLab",
+   "link": "https://www.opensourcealternatives.to/item/gitea",
+   "repo": "https://github.com/go-gitea/gitea",
+   "tags": [
+    "Git",
+    "Self Hosted",
+    "DevOps Tools"
+   ],
+   "github_stars": "57.7"
+  },
+  {
+   "name": "Minikube",
+   "description": "Run a local Kubernetes cluster on macOS, Linux, or Windows",
+   "alternative_to": "Docker Desktop",
+   "link": "https://www.opensourcealternatives.to/item/minikube",
+   "repo": "https://github.com/kubernetes/minikube",
+   "tags": [
+    "Kubernetes",
+    "DevOps Tools",
+    "Cloud Native"
+   ],
+   "github_stars": "32.1"
+  },
+  {
+   "name": "Open Wearables",
+   "description": "Open source health API for wearable device developers",
+   "alternative_to": "Human API and Validic",
+   "link": "https://www.opensourcealternatives.to/item/open-wearables",
+   "repo": "https://github.com/the-momentum/open-wearables",
+   "tags": [
+    "API Development Tools",
+    "Developer Framework",
+    "AI SDK"
+   ],
+   "github_stars": "2.4"
+  },
+  {
+   "name": "CC-Beeper",
+   "description": "A floating macOS pager for Claude Code.",
+   "alternative_to": "GitHub Copilot",
+   "link": "https://www.opensourcealternatives.to/item/cc-beeper",
+   "repo": "https://github.com/vecartier/cc-beeper",
+   "tags": [
+    "macOS",
+    "AI Coding Assistant",
+    "Developer Tools"
+   ],
+   "github_stars": "172"
+  },
+  {
+   "name": "Docusaurus",
+   "description": "React-based static site generator for documentation",
+   "alternative_to": "ReadMe.com and GitBook",
+   "link": "https://www.opensourcealternatives.to/item/docusaurus",
+   "repo": "https://github.com/facebook/docusaurus",
+   "tags": [
+    "Documentation",
+    "Website Builder",
+    "Developer Framework"
+   ],
+   "github_stars": "66.1"
+  },
+  {
+   "name": "TypeUI",
+   "description": "CLI tool for managing design systems for Claude and AI tools",
+   "alternative_to": "Figma and Locofy.ai",
+   "link": "https://www.opensourcealternatives.to/item/typeui",
+   "repo": "https://github.com/bergside/typeui",
+   "tags": [
+    "CLI",
+    "UI/UX Design",
+    "Developer Tools"
+   ],
+   "github_stars": "1.8"
+  },
+  {
+   "name": "Gogs",
+   "description": "The painless way to host your own Git service with Gogs.",
+   "alternative_to": "GitHub Enterprise and GitLab",
+   "link": "https://www.opensourcealternatives.to/item/gogs",
+   "repo": "https://github.com/gogs/gogs",
+   "tags": [
+    "Git",
+    "Self Hosted",
+    "Developer Tools"
+   ],
+   "github_stars": "47.8"
+  },
+  {
+   "name": "OpenFang",
+   "description": "Open source Agent OS built in Rust with autonomous agents",
+   "alternative_to": "Zapier and UiPath",
+   "link": "https://www.opensourcealternatives.to/item/openfang",
+   "repo": "https://github.com/RightNow-AI/openfang",
+   "tags": [
+    "AI Agents",
+    "LLM",
+    "Security"
+   ],
+   "github_stars": "18.1"
+  },
+  {
+   "name": "Apache Superset",
+   "description": "Open source data visualization and BI exploration tool",
+   "alternative_to": "Microsoft Power BI",
+   "link": "https://www.opensourcealternatives.to/item/apache-superset",
+   "repo": "https://github.com/apache/superset",
+   "tags": [
+    "Data Visualization",
+    "Web Analytics",
+    "Self Hosted"
+   ],
+   "github_stars": "74.5"
+  },
+  {
+   "name": "Flameshot",
+   "description": "Open source screenshot tool with annotation and upload",
+   "alternative_to": "Snagit and CleanShot X",
+   "link": "https://www.opensourcealternatives.to/item/flameshot",
+   "repo": "https://github.com/flameshot-org/flameshot",
+   "tags": [
+    "Graphic Design",
+    "Developer Tools",
+    "Documentation"
+   ],
+   "github_stars": "30.7"
+  },
+  {
+   "name": "Syncthing",
+   "description": "Decentralized continuous file sync with no central server",
+   "alternative_to": "Resilio Connect",
+   "link": "https://www.opensourcealternatives.to/item/syncthing",
+   "repo": "https://github.com/syncthing/syncthing",
+   "tags": [
+    "File Sync & Storage",
+    "Self Hosted",
+    "Privacy Tools"
+   ],
+   "github_stars": "88"
+  },
+  {
+   "name": "Cal.diy",
+   "description": "MIT self-hosted scheduling without Cal.com enterprise code",
+   "alternative_to": "Calendly",
+   "link": "https://www.opensourcealternatives.to/item/cal",
+   "repo": "https://github.com/calcom/cal.diy",
+   "tags": [
+    "Calendars & Scheduling",
+    "API Infrastructure",
+    "Self Hosted"
+   ],
+   "github_stars": "47.9"
+  },
+  {
+   "name": "showmd",
+   "description": "The most readable way to preview any .md file on macOS.",
+   "alternative_to": "Marked 2, Typora and iA Writer",
+   "link": "https://www.opensourcealternatives.to/item/showmd",
+   "repo": "https://github.com/johannesnagl/showmd",
+   "tags": [
+    "macOS",
+    "Developer Tools",
+    "Documentation"
+   ],
+   "github_stars": "57"
+  },
+  {
+   "name": "Ollama",
+   "description": "Run large language models locally on Mac, Linux, or Windows",
+   "alternative_to": "",
+   "link": "https://www.opensourcealternatives.to/item/ollama",
+   "repo": "https://github.com/ollama/ollama",
+   "tags": [
+    "LLM",
+    "CLI",
+    "API Infrastructure"
+   ],
+   "github_stars": "179.5"
+  },
+  {
+   "name": "Remodex",
+   "description": "Control Codex agents from your iPhone, open source and free",
+   "alternative_to": "GitHub Copilot",
+   "link": "https://www.opensourcealternatives.to/item/remodex",
+   "repo": "https://github.com/features/copilot",
+   "tags": [
+    "AI Coding Assistant",
+    "Developer Tools",
+    "API Client"
+   ],
+   "github_stars": "3.3"
+  },
+  {
+   "name": "Claudoscope",
+   "description": "Free macOS app for browsing and managing Claude Code sessions",
+   "alternative_to": "Helicone and LangSmith",
+   "link": "https://www.opensourcealternatives.to/item/claudoscope",
+   "repo": "https://github.com/cordwainersmith/Claudoscope",
+   "tags": [
+    "macOS",
+    "AI Coding Assistant",
+    "Monitoring"
+   ],
+   "github_stars": "232"
+  },
+  {
+   "name": "Donut Browser",
+   "description": "Anti-detect browser with isolated profiles and zero telemetry",
+   "alternative_to": "Multilogin",
+   "link": "https://www.opensourcealternatives.to/item/donut-browser",
+   "repo": "https://github.com/zhom/donutbrowser",
+   "tags": [
+    "Web Browsers",
+    "Privacy Tools",
+    "Security"
+   ],
+   "github_stars": "3.7"
+  },
+  {
+   "name": "Handle",
+   "description": "Edit UI visually in the browser and sync changes to code",
+   "alternative_to": "Webflow and Plasmic",
+   "link": "https://www.opensourcealternatives.to/item/handle",
+   "repo": "https://github.com/tonkotsu-ai/handle",
+   "tags": [
+    "UI/UX Design",
+    "Browser Extension",
+    "AI Coding Assistant"
+   ],
+   "github_stars": "40"
+  },
+  {
+   "name": "QoreDB",
+   "description": "Rust-powered database client for 9 SQL and NoSQL engines",
+   "alternative_to": "DataGrip and Navicat Premium",
+   "link": "https://www.opensourcealternatives.to/item/qoredb",
+   "repo": "https://github.com/QoreDB/QoreDB",
+   "tags": [
+    "Database",
+    "Developer Tools",
+    "Local-first"
+   ],
+   "github_stars": "140"
+  },
+  {
+   "name": "Parallel Code",
+   "description": "Run AI coding agents in parallel, each in its own worktree",
+   "alternative_to": "Claude Code and Cursor",
+   "link": "https://www.opensourcealternatives.to/item/parallel-code",
+   "repo": "https://github.com/features/copilot",
+   "tags": [
+    "AI Agents",
+    "AI Coding Assistant",
+    "Developer Tools"
+   ],
+   "github_stars": "996"
+  },
+  {
+   "name": "Optimo",
+   "description": "Optimize and convert images and videos using open formats",
+   "alternative_to": "Cloudinary and imgix",
+   "link": "https://www.opensourcealternatives.to/item/optimo",
+   "repo": "https://github.com/microlinkhq/optimo",
+   "tags": [
+    "CLI",
+    "Developer Tools",
+    "Video"
+   ],
+   "github_stars": "183"
+  },
+  {
+   "name": "VoidZero",
+   "description": "Next-generation unified JavaScript tooling infrastructure",
+   "alternative_to": "Vercel and GitHub Codespaces",
+   "link": "https://www.opensourcealternatives.to/item/voidzero",
+   "repo": "https://github.com/features/codespaces",
+   "tags": [
+    "Developer Tools",
+    "Coding",
+    "Workflow Automation"
+   ],
+   "github_stars": "5.7"
+  },
+  {
+   "name": "Echolon",
+   "description": "Local-first API client for HTTP, REST, and GraphQL",
+   "alternative_to": "Postman, Insomnia and Apidog",
+   "link": "https://www.opensourcealternatives.to/item/echolon",
+   "repo": "https://github.com/echolon-app/echolon",
+   "tags": [
+    "API Client",
+    "Developer Tools",
+    "Git"
+   ],
+   "github_stars": "53"
+  },
+  {
+   "name": "Skills Manager",
+   "description": "Universal skills manager for Claude Code and AI coding agents",
+   "alternative_to": "JFrog AI Catalog",
+   "link": "https://www.opensourcealternatives.to/item/skills-manager",
+   "repo": "https://github.com/zunalabs/skills-manager",
+   "tags": [
+    "AI Agents",
+    "AI Coding Assistant",
+    "LLMOps"
+   ],
+   "github_stars": "67"
+  },
+  {
+   "name": "mTarsier",
+   "description": "Free desktop app for managing MCP servers and AI agents",
+   "alternative_to": "Google Gemini Code Assist",
+   "link": "https://www.opensourcealternatives.to/item/mtarsier",
+   "repo": "https://github.com/mcp360/mTarsier",
+   "tags": [
+    "AI Agents",
+    "Developer Tools",
+    "LLMOps"
+   ],
+   "github_stars": "46"
+  },
+  {
+   "name": "OpenFlags",
+   "description": "Self-hosted feature flags for React, Bun, and Node.js",
+   "alternative_to": "LaunchDarkly and Optimizely",
+   "link": "https://www.opensourcealternatives.to/item/openflags",
+   "repo": "https://github.com/huextrat/openflags",
+   "tags": [
+    "Feature Flag",
+    "Self Hosted",
+    "Developer Tools"
+   ],
+   "github_stars": "15"
+  },
+  {
+   "name": "discli",
+   "description": "CLI for building AI agents and automating Discord servers",
+   "alternative_to": "Skywork AI, Make and MEE6",
+   "link": "https://www.opensourcealternatives.to/item/discli",
+   "repo": "https://github.com/DevRohit06/discli",
+   "tags": [
+    "CLI",
+    "AI Agents",
+    "Workflow Automation"
+   ],
+   "github_stars": "29"
+  },
+  {
+   "name": "VibePad",
+   "description": "Control your AI coding assistant with a gamepad, open source",
+   "alternative_to": "GitHub Copilot",
+   "link": "https://www.opensourcealternatives.to/item/vibepad",
+   "repo": "https://github.com/features/copilot",
+   "tags": [
+    "AI Coding Assistant",
+    "Developer Tools",
+    "macOS"
+   ],
+   "github_stars": "67"
+  },
+  {
+   "name": "OpenMolt",
+   "description": "Build scoped TypeScript AI agents with OpenMolt.dev",
+   "alternative_to": "",
+   "link": "https://www.opensourcealternatives.to/item/openmolt",
+   "repo": "https://github.com/ybouane/openmolt.dev",
+   "tags": [
+    "AI Agents",
+    "Developer Framework",
+    "Developer Tools"
+   ],
+   "github_stars": "34"
+  },
+  {
+   "name": "Modelence",
+   "description": "Full-stack framework for building production-ready web apps",
+   "alternative_to": "Firebase and AWS Amplify",
+   "link": "https://www.opensourcealternatives.to/item/modelence",
+   "repo": "https://github.com/modelence/modelence",
+   "tags": [
+    "Developer Framework",
+    "Authentication",
+    "Database"
+   ],
+   "github_stars": "426"
+  },
+  {
+   "name": "Mengram",
+   "description": "AI memory for Claude Code with auto-save across sessions",
+   "alternative_to": "Pinecone, Weaviate and Qdrant",
+   "link": "https://www.opensourcealternatives.to/item/mengram",
+   "repo": "https://github.com/alibaizhanov/mengram",
+   "tags": [
+    "AI Agents",
+    "LLM",
+    "LLMOps"
+   ],
+   "github_stars": "189"
+  },
+  {
+   "name": "OpenFlowKit",
+   "description": "Local-first AI diagramming tool for developers and builders",
+   "alternative_to": "Lucidchart and Miro",
+   "link": "https://www.opensourcealternatives.to/item/openflowkit",
+   "repo": "https://github.com/Vrun-design/openflowkit",
+   "tags": [
+    "Diagramming",
+    "Local-first",
+    "Developer Tools"
+   ],
+   "github_stars": "736"
+  },
+  {
+   "name": "Cline",
+   "description": "VS Code AI agent that plans and edits across your entire project",
+   "alternative_to": "GitHub Copilot",
+   "link": "https://www.opensourcealternatives.to/item/cline",
+   "repo": "https://github.com/features/copilot",
+   "tags": [
+    "AI Coding Assistant",
+    "AI Agents",
+    "Developer Tools"
+   ],
+   "github_stars": "67.1"
+  },
+  {
+   "name": "OpenBug",
+   "description": "Open source collaborative workspace for debugging issues",
+   "alternative_to": "Jira Software and ClickUp",
+   "link": "https://www.opensourcealternatives.to/item/openbug",
+   "repo": "https://github.com/openbug-ai/cli",
+   "tags": [
+    "Project Management",
+    "Workflow Automation",
+    "Error Tracking"
+   ],
+   "github_stars": "23"
+  },
+  {
+   "name": "Arcmark",
+   "description": "Native macOS bookmark manager with browser integration",
+   "alternative_to": "Anybox and Raindrop.io",
+   "link": "https://www.opensourcealternatives.to/item/arcmark",
+   "repo": "https://github.com/Geek-1001/arcmark",
+   "tags": [
+    "macOS",
+    "Link Management & Shorteners",
+    "Browser Extension"
+   ],
+   "github_stars": "487"
+  },
+  {
+   "name": "Surfpool",
+   "description": "Drop-in local Solana test validator with forking support",
+   "alternative_to": "Alchemy and QuickNode",
+   "link": "https://www.opensourcealternatives.to/item/surfpool",
+   "repo": "https://github.com/txtx/surfpool",
+   "tags": [
+    "Testing",
+    "Developer Tools",
+    "Web3"
+   ],
+   "github_stars": "591"
+  },
+  {
+   "name": "OpenClix",
+   "description": "Open source mobile retention and engagement automation",
+   "alternative_to": "Braze and CleverTap",
+   "link": "https://www.opensourcealternatives.to/item/openclix",
+   "repo": "https://github.com/openclix/openclix",
+   "tags": [
+    "Workflow Automation",
+    "Developer Tools",
+    "AI Agents"
+   ],
+   "github_stars": "39"
+  },
+  {
+   "name": "Octrafic",
+   "description": "AI-powered CLI for automated API testing with natural language",
+   "alternative_to": "Postman and Testsigma",
+   "link": "https://www.opensourcealternatives.to/item/octrafic",
+   "repo": "https://github.com/octrafic/octrafic-cli",
+   "tags": [
+    "AI Coding Assistant",
+    "API Development Tools",
+    "CLI"
+   ],
+   "github_stars": "34"
+  },
+  {
+   "name": "Billing SDK",
+   "description": "Open source React components for SaaS billing flows",
+   "alternative_to": "Stripe Billing",
+   "link": "https://www.opensourcealternatives.to/item/billing-sdk",
+   "repo": "https://github.com/dodopayments/billingsdk",
+   "tags": [
+    "Developer Tools",
+    "UI/UX Design",
+    "Invoicing & Payments"
+   ],
+   "github_stars": "500"
+  },
+  {
+   "name": "Puck",
+   "description": "Open source drag-and-drop page editor for any React app",
+   "alternative_to": "Builder.io and Storyblok",
+   "link": "https://www.opensourcealternatives.to/item/puck",
+   "repo": "https://github.com/puckeditor/puck",
+   "tags": [
+    "No Code",
+    "Low-code",
+    "Website Builder"
+   ],
+   "github_stars": "13.2"
+  },
+  {
+   "name": "ChartDB",
+   "description": "Free open source database diagram editor and visualizer",
+   "alternative_to": "SqlDBM",
+   "link": "https://www.opensourcealternatives.to/item/chartdb",
+   "repo": "https://github.com/chartdb/chartdb",
+   "tags": [
+    "Database",
+    "Data Visualization",
+    "Developer Tools"
+   ],
+   "github_stars": "22.8"
+  },
+  {
+   "name": "GPT-Burger",
+   "description": "Tag, sort, and organize ChatGPT conversations in Chrome",
+   "alternative_to": "PromptLayer and PromptHub",
+   "link": "https://www.opensourcealternatives.to/item/gpt-burger",
+   "repo": "https://github.com/RickyHoHo/GPT-Burger",
+   "tags": [
+    "Browser Extension",
+    "Knowledge Management",
+    "Note-taking Apps"
+   ],
+   "github_stars": "9"
+  },
+  {
+   "name": "bitchat",
+   "description": "Peer-to-peer encrypted chat over Bluetooth mesh network",
+   "alternative_to": "",
+   "link": "https://www.opensourcealternatives.to/item/bitchat",
+   "repo": "https://github.com/permissionlesstech/bitchat",
+   "tags": [
+    "Chat",
+    "Security",
+    "Self Hosted"
+   ],
+   "github_stars": "36"
+  },
+  {
+   "name": "Maestro",
+   "description": "Simple end-to-end testing for iOS, Android, and web apps",
+   "alternative_to": "Katalon Studio",
+   "link": "https://www.opensourcealternatives.to/item/maestro",
+   "repo": "https://github.com/mobile-dev-inc/maestro",
+   "tags": [
+    "Testing",
+    "Developer Tools",
+    "CI/CD Platforms"
+   ],
+   "github_stars": "15.4"
+  },
+  {
+   "name": "Untitled UI React",
+   "description": "Open source React UI component library with Tailwind CSS",
+   "alternative_to": "Kendo UI for React",
+   "link": "https://www.opensourcealternatives.to/item/untitled-ui-react",
+   "repo": "https://github.com/untitleduico/react",
+   "tags": [
+    "UI/UX Design",
+    "Developer Framework",
+    "Developer Tools"
+   ],
+   "github_stars": "1.9"
+  },
+  {
+   "name": "Zed",
+   "description": "High-performance open source code editor with built-in AI",
+   "alternative_to": "JetBrains and GitHub Codespaces",
+   "link": "https://www.opensourcealternatives.to/item/zed",
+   "repo": "https://github.com/features/codespaces",
+   "tags": [
+    "Code Editors",
+    "Coding",
+    "Developer Tools"
+   ],
+   "github_stars": "89.3"
+  },
+  {
+   "name": "Hoppscotch",
+   "description": "Open source Postman alternative for REST and GraphQL testing",
+   "alternative_to": "Postman and Insomnia",
+   "link": "https://www.opensourcealternatives.to/item/hoppscotch",
+   "repo": "https://github.com/hoppscotch/hoppscotch",
+   "tags": [
+    "API Client",
+    "API Development Tools",
+    "Testing"
+   ],
+   "github_stars": "80.1"
+  },
+  {
+   "name": "Zen Browser",
+   "description": "Focus-first Firefox fork with workspaces and split-view browsing",
+   "alternative_to": "SigmaOS and Brave Browser",
+   "link": "https://www.opensourcealternatives.to/item/zen-browser",
+   "repo": "https://github.com/zen-browser/desktop",
+   "tags": [
+    "Web Browsers",
+    "Privacy Tools",
+    "Developer Tools"
+   ],
+   "github_stars": "44.2"
+  },
+  {
+   "name": "Void",
+   "description": "Cursor alternative that routes AI to your own LLM provider",
+   "alternative_to": "GitHub Copilot and Cursor",
+   "link": "https://www.opensourcealternatives.to/item/void",
+   "repo": "https://github.com/features/copilot",
+   "tags": [
+    "Code Editors",
+    "AI Coding Assistant",
+    "Developer Tools"
+   ],
+   "github_stars": "28.9"
+  },
+  {
+   "name": "Bluesky",
+   "description": "Own your account and move freely across compatible servers",
+   "alternative_to": "Hootsuite and Sprout Social",
+   "link": "https://www.opensourcealternatives.to/item/bluesky",
+   "repo": "https://github.com/bluesky-social/social-app",
+   "tags": [
+    "Social Media",
+    "Self Hosted",
+    "Open Core"
+   ],
+   "github_stars": "18.2"
+  },
+  {
+   "name": "ShareX",
+   "description": "Screenshot and record with 80+ upload destinations on Windows",
+   "alternative_to": "Snagit and CloudApp",
+   "link": "https://www.opensourcealternatives.to/item/sharex",
+   "repo": "https://github.com/ShareX/ShareX",
+   "tags": [
+    "Screen Recorders",
+    "Workflow Automation",
+    "File Sharing"
+   ],
+   "github_stars": "39.4"
+  },
+  {
+   "name": "Tor Browser",
+   "description": "Secure browsing through the Tor network with anti-fingerprinting",
+   "alternative_to": "NordVPN and ExpressVPN",
+   "link": "https://www.opensourcealternatives.to/item/tor-browser",
+   "repo": "https://github.com/boklm/tor-browser-build",
+   "tags": [
+    "Web Browsers",
+    "Privacy Tools",
+    "Security"
+   ],
+   "github_stars": "0"
+  },
+  {
+   "name": "Ladybird",
+   "description": "Browser with its own rendering engine, no Chrome or Firefox code",
+   "alternative_to": "Island Enterprise Browser",
+   "link": "https://www.opensourcealternatives.to/item/ladybird",
+   "repo": "https://github.com/LadybirdBrowser/ladybird",
+   "tags": [
+    "Web Browsers",
+    "Developer Tools",
+    "Coding"
+   ],
+   "github_stars": "65.9"
+  },
+  {
+   "name": "CodeEdit",
+   "description": "Native Swift code editor for macOS with no Electron overhead",
+   "alternative_to": "Sublime Text and Nova",
+   "link": "https://www.opensourcealternatives.to/item/codeedit",
+   "repo": "https://github.com/CodeEditApp/CodeEdit",
+   "tags": [
+    "Code Editors",
+    "Developer Tools",
+    "Coding"
+   ],
+   "github_stars": "23"
+  },
+  {
+   "name": "Continue",
+   "description": "Connect any LLM to VS Code for AI completions and codebase chat",
+   "alternative_to": "GitHub Copilot and Tabnine",
+   "link": "https://www.opensourcealternatives.to/item/continue",
+   "repo": "https://github.com/features/copilot",
+   "tags": [
+    "AI Coding Assistant",
+    "LLM",
+    "Developer Tools"
+   ],
+   "github_stars": "35.6"
+  },
+  {
+   "name": "CopilotKit",
+   "description": "Add in-app AI copilot chat and actions to any React application",
+   "alternative_to": "Microsoft Copilot Studio",
+   "link": "https://www.opensourcealternatives.to/item/copilotkit",
+   "repo": "https://github.com/CopilotKit/CopilotKit",
+   "tags": [
+    "AI Agents",
+    "AI SDK",
+    "Developer Framework"
+   ],
+   "github_stars": "37.1"
+  },
+  {
+   "name": "Letta",
+   "description": "Give your LLM agents persistent memory across every conversation",
+   "alternative_to": "Vellum AI",
+   "link": "https://www.opensourcealternatives.to/item/letta",
+   "repo": "https://github.com/letta-ai/letta-code",
+   "tags": [
+    "AI Agents",
+    "LLM",
+    "LLMOps"
+   ],
+   "github_stars": "3.1"
+  },
+  {
+   "name": "Logto",
+   "description": "Multi-tenant auth platform with SSO, RBAC, and social login",
+   "alternative_to": "Auth0, Okta and WorkOS",
+   "link": "https://www.opensourcealternatives.to/item/logto",
+   "repo": "https://github.com/logto-io/logto",
+   "tags": [
+    "Authentication",
+    "Authorization",
+    "API Infrastructure"
+   ],
+   "github_stars": "14.5"
+  },
+  {
+   "name": "FerretDB",
+   "description": "Run MongoDB apps on PostgreSQL with no code changes needed",
+   "alternative_to": "MongoDB Atlas",
+   "link": "https://www.opensourcealternatives.to/item/ferretdb",
+   "repo": "https://github.com/FerretDB/FerretDB",
+   "tags": [
+    "Database",
+    "Self Hosted",
+    "Developer Tools"
+   ],
+   "github_stars": "11.1"
+  },
+  {
+   "name": "ZITADEL",
+   "description": "Open source identity platform with SSO, RBAC, and multi-tenancy",
+   "alternative_to": "Auth0",
+   "link": "https://www.opensourcealternatives.to/item/zitadel",
+   "repo": "https://github.com/zitadel/zitadel",
+   "tags": [
+    "Authentication",
+    "Authorization",
+    "Security"
+   ],
+   "github_stars": "14.9"
+  },
+  {
+   "name": "Better Auth",
+   "description": "Drop-in TypeScript auth with MFA, SSO, and multi-tenancy support",
+   "alternative_to": "Auth0 and Okta",
+   "link": "https://www.opensourcealternatives.to/item/better-auth",
+   "repo": "https://github.com/better-auth/better-auth",
+   "tags": [
+    "Authentication",
+    "Self Hosted",
+    "Developer Framework"
+   ],
+   "github_stars": "29.7"
+  },
+  {
+   "name": "Botpress",
+   "description": "Visual chatbot builder with LLM integration and live deployment",
+   "alternative_to": "",
+   "link": "https://www.opensourcealternatives.to/item/botpress",
+   "repo": "https://github.com/js-cookie/js-cookie",
+   "tags": [
+    "Chatbots",
+    "AI Agents",
+    "LLM"
+   ],
+   "github_stars": "22.6"
+  },
+  {
+   "name": "Languine",
+   "description": "Keep translations in sync with code changes via AI-powered CLI",
+   "alternative_to": "Phrase and Lokalise",
+   "link": "https://www.opensourcealternatives.to/item/languine",
+   "repo": "https://github.com/midday-ai/languine",
+   "tags": [
+    "Workflow Automation",
+    "AI Coding Assistant",
+    "CI/CD Platforms"
+   ],
+   "github_stars": "2"
+  },
+  {
+   "name": "Kutt",
+   "description": "Self-hosted URL shortener with analytics and custom domains",
+   "alternative_to": "Bitly, Rebrandly and TinyURL",
+   "link": "https://www.opensourcealternatives.to/item/kutt",
+   "repo": "https://github.com/thedevs-network/kutt",
+   "tags": [
+    "Link Management & Shorteners",
+    "Self Hosted",
+    "Web Analytics"
+   ],
+   "github_stars": "11.1"
+  },
+  {
+   "name": "Yaak",
+   "description": "Local-first API client for HTTP, GraphQL, and WebSocket",
+   "alternative_to": "Postman, Insomnia and Apidog",
+   "link": "https://www.opensourcealternatives.to/item/yaak",
+   "repo": "https://github.com/mountain-loop/yaak",
+   "tags": [
+    "API Client",
+    "API Development Tools",
+    "Testing"
+   ],
+   "github_stars": "19.1"
+  },
+  {
+   "name": "Kanri",
+   "description": "Local-first Kanban board that stores all data in a JSON file",
+   "alternative_to": "Trello, Jira Software and Asana",
+   "link": "https://www.opensourcealternatives.to/item/kanri",
+   "repo": "https://github.com/trobonox/kanri",
+   "tags": [
+    "Project Management",
+    "Task Management",
+    "Local-first"
+   ],
+   "github_stars": "2"
+  },
+  {
+   "name": "Joplin",
+   "description": "Open source note-taking app with Markdown and sync support",
+   "alternative_to": "Notion and Evernote",
+   "link": "https://www.opensourcealternatives.to/item/joplin",
+   "repo": "https://github.com/laurent22/joplin",
+   "tags": [
+    "Note-taking Apps",
+    "Knowledge Management",
+    "File Sync & Storage"
+   ],
+   "github_stars": "56.1"
+  },
+  {
+   "name": "PearAI",
+   "description": "Open source AI code editor with chat, autocomplete, and search",
+   "alternative_to": "GitHub Copilot and Cursor",
+   "link": "https://www.opensourcealternatives.to/item/pearai",
+   "repo": "https://github.com/features/copilot",
+   "tags": [
+    "AI Coding Assistant",
+    "Code Editors",
+    "Developer Tools"
+   ],
+   "github_stars": "704"
+  },
+  {
+   "name": "Capgo",
+   "description": "Over-the-air live updates for Capacitor mobile apps",
+   "alternative_to": "Capawesome Cloud and Appcircle",
+   "link": "https://www.opensourcealternatives.to/item/capgo",
+   "repo": "https://github.com/Cap-go/capacitor-updater",
+   "tags": [
+    "Developer Tools",
+    "Workflow Automation",
+    "CI/CD Platforms"
+   ],
+   "github_stars": "833"
+  },
+  {
+   "name": "Flipt",
+   "description": "Feature flags that store and evaluate on your own infrastructure",
+   "alternative_to": "LaunchDarkly and Split.io",
+   "link": "https://www.opensourcealternatives.to/item/flipt",
+   "repo": "https://github.com/flipt-io/flipt",
+   "tags": [
+    "Feature Flag",
+    "Self Hosted",
+    "Cloud Native"
+   ],
+   "github_stars": "4.9"
+  },
+  {
+   "name": "Cerbos",
+   "description": "Move access control out of app code into testable YAML policies",
+   "alternative_to": "PlainID and Axiomatics",
+   "link": "https://www.opensourcealternatives.to/item/cerbos",
+   "repo": "https://github.com/cerbos/cerbos",
+   "tags": [
+    "Authorization",
+    "Security",
+    "Developer Tools"
+   ],
+   "github_stars": "4.6"
+  },
+  {
+   "name": "Grit",
+   "description": "Automate code migrations at scale using a pattern-matching DSL",
+   "alternative_to": "SonarQube, Qodo and Moderne",
+   "link": "https://www.opensourcealternatives.to/item/grit",
+   "repo": "https://github.com/getgrit/gritql",
+   "tags": [
+    "Developer Tools",
+    "Workflow Automation",
+    "Coding"
+   ],
+   "github_stars": "4.6"
+  },
+  {
+   "name": "Azimutt",
+   "description": "Explore and document complex database schemas visually",
+   "alternative_to": "SqlDBM",
+   "link": "https://www.opensourcealternatives.to/item/azimutt",
+   "repo": "https://github.com/azimuttapp/azimutt",
+   "tags": [
+    "Database",
+    "Data Visualization",
+    "Documentation"
+   ],
+   "github_stars": "2.2"
+  },
+  {
+   "name": "SWE-agent",
+   "description": "Autonomous AI agent that reads code and resolves GitHub issues",
+   "alternative_to": "GitHub Copilot and Devin AI",
+   "link": "https://www.opensourcealternatives.to/item/swe-agent",
+   "repo": "https://github.com/features/copilot",
+   "tags": [
+    "AI Agents",
+    "LLM",
+    "Developer Tools"
+   ],
+   "github_stars": "20.2"
+  },
+  {
+   "name": "Appwrite",
+   "description": "Self-hosted backend: auth, databases, storage, and functions",
+   "alternative_to": "Firebase and AWS Amplify",
+   "link": "https://www.opensourcealternatives.to/item/appwrite",
+   "repo": "https://github.com/appwrite/appwrite",
+   "tags": [
+    "Developer Tools",
+    "API Infrastructure",
+    "Self Hosted"
+   ],
+   "github_stars": "57.2"
+  },
+  {
+   "name": "Taiga",
+   "description": "Agile project management for Scrum, Kanban, and hybrid teams",
+   "alternative_to": "Jira Software Cloud and ClickUp",
+   "link": "https://www.opensourcealternatives.to/item/taiga",
+   "repo": "https://github.com/taigaio/taiga-front",
+   "tags": [
+    "Project Management",
+    "Task Management",
+    "Workflow Automation"
+   ],
+   "github_stars": "376"
+  },
+  {
+   "name": "Trilium.cc",
+   "description": "Self-hosted hierarchical notes with backlinks and encrypted sync",
+   "alternative_to": "Notion and Evernote",
+   "link": "https://www.opensourcealternatives.to/item/triliumcc",
+   "repo": "https://github.com/zadam/trilium",
+   "tags": [
+    "Knowledge Management",
+    "Note-taking Apps",
+    "Self Hosted"
+   ],
+   "github_stars": "37.6"
+  },
+  {
+   "name": "Stirling PDF",
+   "description": "Self-hosted PDF editor with 50+ tools for every PDF task",
+   "alternative_to": "Adobe Acrobat Pro",
+   "link": "https://www.opensourcealternatives.to/item/stirling-pdf",
+   "repo": "https://github.com/Stirling-Tools/Stirling-PDF",
+   "tags": [
+    "Self Hosted",
+    "Workflow Automation",
+    "Documentation"
+   ],
+   "github_stars": "90.9"
+  },
+  {
+   "name": "Pulumi",
+   "description": "Write infrastructure as code in TypeScript, Python, or Go",
+   "alternative_to": "HashiCorp Terraform Cloud",
+   "link": "https://www.opensourcealternatives.to/item/pulumi",
+   "repo": "https://github.com/pulumi/pulumi",
+   "tags": [
+    "Infrastructure as Code",
+    "DevOps Tools",
+    "Cloud Management"
+   ],
+   "github_stars": "25.6"
+  },
+  {
+   "name": "PouchDB",
+   "description": "JavaScript database that syncs with CouchDB, works offline",
+   "alternative_to": "Google Cloud Firestore",
+   "link": "https://www.opensourcealternatives.to/item/pouchdb",
+   "repo": "https://github.com/apache/pouchdb",
+   "tags": [
+    "Database",
+    "Developer Framework",
+    "API Development Tools"
+   ],
+   "github_stars": "17.6"
+  },
+  {
+   "name": "21st.dev",
+   "description": "Browse and install production-ready shadcn/ui components via CLI",
+   "alternative_to": "Tailwind UI and Vercel v0",
+   "link": "https://www.opensourcealternatives.to/item/21stdev",
+   "repo": "https://github.com/kokonut-labs/kokonutui",
+   "tags": [
+    "UI/UX Design",
+    "Developer Framework",
+    "Developer Tools"
+   ],
+   "github_stars": "2.1"
+  },
+  {
+   "name": "ProjectDiscovery",
+   "description": "Open source security tools for finding vulnerabilities at scale",
+   "alternative_to": "Qualys and Rapid7",
+   "link": "https://www.opensourcealternatives.to/item/projectdiscovery",
+   "repo": "https://github.com/projectdiscovery/nuclei",
+   "tags": [
+    "Security",
+    "Cybersecurity",
+    "DevOps Tools"
+   ],
+   "github_stars": "30.9"
+  },
+  {
+   "name": "PDFsam Basic",
+   "description": "Split, merge, rotate, and extract PDF pages for free",
+   "alternative_to": "Adobe Acrobat Pro",
+   "link": "https://www.opensourcealternatives.to/item/pdfsam-basic",
+   "repo": "https://github.com/torakiki/pdfsam",
+   "tags": [
+    "Documentation",
+    "Open Core",
+    "Self Hosted"
+   ],
+   "github_stars": "4.6"
+  },
+  {
+   "name": "TiKV",
+   "description": "Distributed key-value store with ACID transactions at scale",
+   "alternative_to": "Amazon DynamoDB",
+   "link": "https://www.opensourcealternatives.to/item/tikv",
+   "repo": "https://github.com/tikv/tikv",
+   "tags": [
+    "Database",
+    "Cloud Native",
+    "Developer Tools"
+   ],
+   "github_stars": "16.8"
+  },
+  {
+   "name": "Falkon",
+   "description": "Speed-first browser for KDE Plasma with built-in ad blocking",
+   "alternative_to": "Island Enterprise Browser",
+   "link": "https://www.opensourcealternatives.to/item/falkon",
+   "repo": "https://github.com/KDE/falkon",
+   "tags": [
+    "Web Browsers",
+    "Privacy Tools",
+    "Security"
+   ],
+   "github_stars": "482"
+  },
+  {
+   "name": "Sulu",
+   "description": "Enterprise-ready open source CMS built on Symfony",
+   "alternative_to": "Contentful",
+   "link": "https://www.opensourcealternatives.to/item/sulu",
+   "repo": "https://github.com/sulu/sulu",
+   "tags": [
+    "CMS",
+    "Headless CMS",
+    "Developer Framework"
+   ],
+   "github_stars": "1.4"
+  },
+  {
+   "name": "Novu",
+   "description": "Open source notification infrastructure for product teams",
+   "alternative_to": "Courier, Knock and SuprSend",
+   "link": "https://www.opensourcealternatives.to/item/novu",
+   "repo": "https://github.com/novuhq/novu",
+   "tags": [
+    "API Infrastructure",
+    "Developer Tools",
+    "Email"
+   ],
+   "github_stars": "39.7"
+  },
+  {
+   "name": "Qwen",
+   "description": "Alibaba's Apache 2.0 LLM in sizes from small to frontier scale",
+   "alternative_to": "OpenAI",
+   "link": "https://www.opensourcealternatives.to/item/qwen",
+   "repo": "https://github.com/QwenLM/Qwen",
+   "tags": [
+    "LLM",
+    "AI Agents",
+    "LLMOps"
+   ],
+   "github_stars": "21.6"
+  },
+  {
+   "name": "OpenLLaMA",
+   "description": "Permissive open LLaMA reproduction in 3B, 7B, and 13B parameters",
+   "alternative_to": "OpenAI",
+   "link": "https://www.opensourcealternatives.to/item/openllama",
+   "repo": "https://github.com/openlm-research/open_llama",
+   "tags": [
+    "LLM",
+    "AI SDK",
+    "Developer Framework"
+   ],
+   "github_stars": "7.5"
+  },
+  {
+   "name": "DuckDB",
+   "description": "Fast in-process SQL analytics database, no server needed",
+   "alternative_to": "MotherDuck and Snowflake",
+   "link": "https://www.opensourcealternatives.to/item/duckdb",
+   "repo": "https://github.com/duckdb/duckdb",
+   "tags": [
+    "Database",
+    "Developer Tools",
+    "Coding"
+   ],
+   "github_stars": "40.7"
+  },
+  {
+   "name": "Blender",
+   "description": "Free 3D creation suite for modeling, rigging, and rendering",
+   "alternative_to": "Autodesk Maya",
+   "link": "https://www.opensourcealternatives.to/item/blender",
+   "repo": "https://github.com/blender/blender",
+   "tags": [
+    "3D Modeling",
+    "Graphic Design",
+    "Video"
+   ],
+   "github_stars": "19.9"
+  },
+  {
+   "name": "OpenShot",
+   "description": "Free open source video editor for Linux, Mac, and Windows",
+   "alternative_to": "Adobe Premiere Pro",
+   "link": "https://www.opensourcealternatives.to/item/openshot",
+   "repo": "https://github.com/OpenShot/openshot-qt",
+   "tags": [
+    "Video",
+    "Graphic Design",
+    "Developer Tools"
+   ],
+   "github_stars": "6.2"
+  },
+  {
+   "name": "Decap CMS",
+   "description": "Git-based content management for static site generators",
+   "alternative_to": "CloudCannon and Contentful",
+   "link": "https://www.opensourcealternatives.to/item/decap-cms",
+   "repo": "https://github.com/decaporg/decap-cms",
+   "tags": [
+    "CMS",
+    "Headless CMS",
+    "Blogging"
+   ],
+   "github_stars": "19.3"
+  },
+  {
+   "name": "TinaCMS",
+   "description": "Open source headless CMS with inline editing and Git backend",
+   "alternative_to": "Storyblok and Contentful",
+   "link": "https://www.opensourcealternatives.to/item/tinacms",
+   "repo": "https://github.com/tinacms/tinacms",
+   "tags": [
+    "Headless CMS",
+    "CMS",
+    "Developer Tools"
+   ],
+   "github_stars": "13.8"
+  },
+  {
+   "name": "Waterfox",
+   "description": "Privacy-focused browser engineered for speed and user control",
+   "alternative_to": "Island and TalonWork",
+   "link": "https://www.opensourcealternatives.to/item/waterfox",
+   "repo": "https://github.com/BrowserWorks/waterfox",
+   "tags": [
+    "Web Browsers",
+    "Security",
+    "Privacy Tools"
+   ],
+   "github_stars": "6.2"
+  },
+  {
+   "name": "Tunnelmole",
+   "description": "Get a public HTTPS URL for your local development server",
+   "alternative_to": "ngrok and LocalXpose",
+   "link": "https://www.opensourcealternatives.to/item/tunnelmole",
+   "repo": "https://github.com/robbie-cahill/tunnelmole-client",
+   "tags": [
+    "Developer Tools",
+    "Testing",
+    "Self Hosted"
+   ],
+   "github_stars": "1.9"
+  },
+  {
+   "name": "Pitivi",
+   "description": "Non-linear video editor for Linux, powered by GStreamer",
+   "alternative_to": "Adobe Premiere Pro",
+   "link": "https://www.opensourcealternatives.to/item/pitivi",
+   "repo": "https://github.com/pitivi/pitivi",
+   "tags": [
+    "Video",
+    "Open Core",
+    "Developer Tools"
+   ],
+   "github_stars": "243"
+  },
+  {
+   "name": "FFmpeg",
+   "description": "Record, convert, and stream audio and video on any platform",
+   "alternative_to": "Mux and Encoding.com",
+   "link": "https://www.opensourcealternatives.to/item/ffmpeg",
+   "repo": "https://github.com/FFmpeg/FFmpeg",
+   "tags": [
+    "Video",
+    "Developer Tools",
+    "Developer Framework"
+   ],
+   "github_stars": "63.7"
+  },
+  {
+   "name": "Flagsmith",
+   "description": "Open source feature flags and remote config, self-hosted",
+   "alternative_to": "LaunchDarkly and Split",
+   "link": "https://www.opensourcealternatives.to/item/flagsmith",
+   "repo": "https://github.com/Flagsmith/flagsmith-api",
+   "tags": [
+    "Feature Flag",
+    "A/B Testing",
+    "DevOps Tools"
+   ],
+   "github_stars": "6.5"
+  },
+  {
+   "name": "Pinta",
+   "description": "Free open source image editor inspired by Paint.NET",
+   "alternative_to": "Adobe Photoshop",
+   "link": "https://www.opensourcealternatives.to/item/pinta",
+   "repo": "https://github.com/PintaProject/Pinta",
+   "tags": [
+    "Graphic Design",
+    "Photo Management",
+    "Open Core"
+   ],
+   "github_stars": "4"
+  },
+  {
+   "name": "OLMo",
+   "description": "Allen AI research LLM with public weights and open training code",
+   "alternative_to": "Google Cloud Vertex AI",
+   "link": "https://www.opensourcealternatives.to/item/olmo",
+   "repo": "https://github.com/allenai/OLMo-core",
+   "tags": [
+    "LLM",
+    "LLMOps",
+    "AI SDK"
+   ],
+   "github_stars": "1.5"
+  },
+  {
+   "name": "Appsmith",
+   "description": "Build internal tools with a low-code drag-and-drop UI",
+   "alternative_to": "Retool and OutSystems",
+   "link": "https://www.opensourcealternatives.to/item/appsmith",
+   "repo": "https://github.com/appsmithorg/appsmith",
+   "tags": [
+    "Low-code",
+    "Workflow Automation",
+    "Developer Tools"
+   ],
+   "github_stars": "40.8"
+  },
+  {
+   "name": "Encore",
+   "description": "Auto-generate infrastructure from your TypeScript or Go code",
+   "alternative_to": "Firebase and AWS Amplify",
+   "link": "https://www.opensourcealternatives.to/item/encore",
+   "repo": "https://github.com/encoredev/encore",
+   "tags": [
+    "Developer Framework",
+    "Developer Tools",
+    "API Development Tools"
+   ],
+   "github_stars": "12.3"
+  },
+  {
+   "name": "Svix",
+   "description": "Webhook platform with delivery guarantees, retries, and signing",
+   "alternative_to": "Hookdeck and Hook Relay",
+   "link": "https://www.opensourcealternatives.to/item/svix",
+   "repo": "https://github.com/svix/svix-webhooks",
+   "tags": [
+    "API Infrastructure",
+    "Developer Tools",
+    "Security"
+   ],
+   "github_stars": "3.4"
+  },
+  {
+   "name": "Amplication",
+   "description": "Generate production-ready backends for platform engineers",
+   "alternative_to": "Xano and Backendless",
+   "link": "https://www.opensourcealternatives.to/item/amplication",
+   "repo": "https://github.com/amplication/amplication",
+   "tags": [
+    "API Development Tools",
+    "BaaS",
+    "AI Coding Assistant"
+   ],
+   "github_stars": "16"
+  },
+  {
+   "name": "Manifest",
+   "description": "One YAML file gives your app auth, CRUD, storage, and admin UI",
+   "alternative_to": "Xano and Firebase",
+   "link": "https://www.opensourcealternatives.to/item/manifest",
+   "repo": "https://github.com/mnfst/manifest",
+   "tags": [
+    "BaaS",
+    "Authentication",
+    "Authorization"
+   ],
+   "github_stars": "7.5"
+  },
+  {
+   "name": "Steel‑LLM",
+   "description": "1B Chinese LLM with public weights, training code, and data",
+   "alternative_to": "OpenAI",
+   "link": "https://www.opensourcealternatives.to/item/steel-llm",
+   "repo": "https://github.com/zhanshijinwat/Steel-LLM",
+   "tags": [
+    "LLM",
+    "LLMOps",
+    "Developer Framework"
+   ],
+   "github_stars": "814"
+  },
+  {
+   "name": "TinyLLaMA",
+   "description": "Compact 1.1B LLaMA model trained on 3 trillion tokens",
+   "alternative_to": "OpenAI and Anthropic",
+   "link": "https://www.opensourcealternatives.to/item/tinyllama",
+   "repo": "https://github.com/jzhang38/TinyLlama",
+   "tags": [
+    "LLM",
+    "AI SDK",
+    "Developer Tools"
+   ],
+   "github_stars": "9"
+  },
+  {
+   "name": "Warrant",
+   "description": "Run fine-grained authorization with RBAC, ABAC, and ReBAC",
+   "alternative_to": "Permit.io, Cerbos and Auth0",
+   "link": "https://www.opensourcealternatives.to/item/warrant",
+   "repo": "https://github.com/warrant-dev/warrant",
+   "tags": [
+    "Authorization",
+    "API Infrastructure",
+    "Developer Tools"
+   ],
+   "github_stars": "1.3"
+  },
+  {
+   "name": "Moxin-LLM",
+   "description": "Full transparency LLM: open weights, training code, and data",
+   "alternative_to": "Google Vertex AI",
+   "link": "https://www.opensourcealternatives.to/item/moxin-llm",
+   "repo": "https://github.com/moxin-org/Moxin-LLM",
+   "tags": [
+    "LLM",
+    "LLMOps",
+    "AI SDK"
+   ],
+   "github_stars": "525"
+  },
+  {
+   "name": "dyrector.io",
+   "description": "Open source container management and CD platform",
+   "alternative_to": "GitLab CI/CD",
+   "link": "https://www.opensourcealternatives.to/item/dyrectorio",
+   "repo": "https://github.com/dyrector-io/dyrectorio",
+   "tags": [
+    "CI/CD Platforms",
+    "Docker Management",
+    "Kubernetes"
+   ],
+   "github_stars": "1.8"
+  },
+  {
+   "name": "Keploy",
+   "description": "AI-powered tool that converts API traffic into test cases",
+   "alternative_to": "Postman, Mabl and ReadyAPI",
+   "link": "https://www.opensourcealternatives.to/item/keploy",
+   "repo": "https://github.com/keploy/keploy",
+   "tags": [
+    "Testing",
+    "AI Coding Assistant",
+    "Developer Tools"
+   ],
+   "github_stars": "18.4"
+  },
+  {
+   "name": "Oso Cloud",
+   "description": "Open source authorization with RBAC, ABAC, and ReBAC for any app",
+   "alternative_to": "PlainID, Cerbos and Auth0",
+   "link": "https://www.opensourcealternatives.to/item/oso-cloud",
+   "repo": "https://github.com/osohq/oso",
+   "tags": [
+    "Authorization",
+    "Security",
+    "Developer Tools"
+   ],
+   "github_stars": "3.5"
+  },
+  {
+   "name": "Manticore Search",
+   "description": "MySQL-wire search engine with full-text and real-time indexing",
+   "alternative_to": "",
+   "link": "https://www.opensourcealternatives.to/item/manticore-search",
+   "repo": "https://github.com/manticoresoftware/manticoresearch",
+   "tags": [
+    "Search Engine",
+    "Database",
+    "Self Hosted"
+   ],
+   "github_stars": "12"
+  },
+  {
+   "name": "MuPDF",
+   "description": "Fast open source library for rendering and editing PDFs",
+   "alternative_to": "Apryse PDF SDK",
+   "link": "https://www.opensourcealternatives.to/item/mupdf",
+   "repo": "https://github.com/ArtifexSoftware/mupdf",
+   "tags": [
+    "Developer Framework",
+    "API Development Tools",
+    "Coding"
+   ],
+   "github_stars": "2.9"
+  },
+  {
+   "name": "PDF4QT",
+   "description": "Open source PDF editor and viewer for Windows and Linux",
+   "alternative_to": "Adobe Acrobat Pro",
+   "link": "https://www.opensourcealternatives.to/item/pdf4qt",
+   "repo": "https://github.com/JakubMelka/PDF4QT",
+   "tags": [
+    "Developer Tools",
+    "Documentation",
+    "Open Core"
+   ],
+   "github_stars": "1.5"
+  },
+  {
+   "name": "sK1 Project",
+   "description": "Linux vector editor for print prepress with CMYK and ICC support",
+   "alternative_to": "Adobe Illustrator",
+   "link": "https://www.opensourcealternatives.to/item/sk1-project",
+   "repo": "https://github.com/sk1-project/sk1-wx",
+   "tags": [
+    "Graphic Design",
+    "Developer Tools",
+    "Open Core"
+   ],
+   "github_stars": "330"
+  },
+  {
+   "name": "LiVES",
+   "description": "Live video editing and VJ performance tool for GNU/Linux",
+   "alternative_to": "Adobe Premiere Pro",
+   "link": "https://www.opensourcealternatives.to/item/lives",
+   "repo": "https://github.com/salsaman/LiVES",
+   "tags": [
+    "Video",
+    "Graphic Design",
+    "Developer Tools"
+   ],
+   "github_stars": "102"
+  },
+  {
+   "name": "Zettlr",
+   "description": "Open source Markdown editor for researchers and academics",
+   "alternative_to": "Notion, Evernote and Scrivener",
+   "link": "https://www.opensourcealternatives.to/item/zettlr",
+   "repo": "https://github.com/Zettlr/Zettlr",
+   "tags": [
+    "Note-taking Apps",
+    "Knowledge Management",
+    "Documentation"
+   ],
+   "github_stars": "13.4"
+  },
+  {
+   "name": "Natron",
+   "description": "Free node-based compositing software for visual effects",
+   "alternative_to": "Foundry Nuke",
+   "link": "https://www.opensourcealternatives.to/item/natron",
+   "repo": "https://github.com/NatronGitHub/Natron",
+   "tags": [
+    "Video",
+    "Graphic Design",
+    "Workflow Automation"
+   ],
+   "github_stars": "5.5"
+  },
+  {
+   "name": "Converse.js",
+   "description": "Self-hosted web-based XMPP chat client for any server",
+   "alternative_to": "Slack and Microsoft Teams",
+   "link": "https://www.opensourcealternatives.to/item/conversejs",
+   "repo": "https://github.com/conversejs/converse.js",
+   "tags": [
+    "Chat",
+    "Self Hosted",
+    "Security"
+   ],
+   "github_stars": "3.3"
+  },
+  {
+   "name": "Budibase",
+   "description": "Low-code platform for building internal apps, self-hosted",
+   "alternative_to": "Retool",
+   "link": "https://www.opensourcealternatives.to/item/budibase",
+   "repo": "https://github.com/budibase/budibase",
+   "tags": [
+    "Low-code",
+    "No Code",
+    "Workflow Automation"
+   ],
+   "github_stars": "28.2"
+  },
+  {
+   "name": "ToolJet",
+   "description": "Build internal tools with a drag-and-drop UI and 50+ connectors",
+   "alternative_to": "Retool",
+   "link": "https://www.opensourcealternatives.to/item/tooljet",
+   "repo": "https://github.com/ToolJet/ToolJet",
+   "tags": [
+    "Low-code",
+    "No Code",
+    "Self Hosted"
+   ],
+   "github_stars": "40.8"
+  },
+  {
+   "name": "Tox",
+   "description": "Free encrypted P2P messaging and voice calls, no servers",
+   "alternative_to": "Threema Work and Wire",
+   "link": "https://www.opensourcealternatives.to/item/tox",
+   "repo": "https://github.com/TokTok/c-toxcore",
+   "tags": [
+    "Chat",
+    "Security",
+    "Privacy Tools"
+   ],
+   "github_stars": "2.7"
+  },
+  {
+   "name": "Tinode",
+   "description": "Self-hosted instant messaging platform for web and mobile apps",
+   "alternative_to": "Stream Chat and CometChat",
+   "link": "https://www.opensourcealternatives.to/item/tinode",
+   "repo": "https://github.com/tinode/chat",
+   "tags": [
+    "Chat",
+    "Self Hosted",
+    "API Development Tools"
+   ],
+   "github_stars": "13.5"
+  },
+  {
+   "name": "GPT‑NeoX",
+   "description": "EleutherAI's framework for training LLMs at research scale",
+   "alternative_to": "Google Cloud Vertex AI",
+   "link": "https://www.opensourcealternatives.to/item/gpt-neox",
+   "repo": "https://github.com/EleutherAI/gpt-neox",
+   "tags": [
+    "LLM",
+    "LLMOps",
+    "Developer Framework"
+   ],
+   "github_stars": "7.5"
+  },
+  {
+   "name": "LLM Foundry",
+   "description": "Apache 2.0 LLM fine-tuning toolkit for Llama and Mistral on GPU",
+   "alternative_to": "Databricks",
+   "link": "https://www.opensourcealternatives.to/item/llm-foundry",
+   "repo": "https://github.com/mosaicml/llm-foundry",
+   "tags": [
+    "LLM",
+    "LLMOps",
+    "Developer Framework"
+   ],
+   "github_stars": "4.4"
+  },
+  {
+   "name": "Apache PDFBox",
+   "description": "Open source Java library for creating and parsing PDFs",
+   "alternative_to": "Adobe Acrobat Services",
+   "link": "https://www.opensourcealternatives.to/item/apache-pdfbox",
+   "repo": "https://github.com/apache/pdfbox",
+   "tags": [
+    "Developer Framework",
+    "Coding",
+    "Documentation"
+   ],
+   "github_stars": "3.1"
+  },
+  {
+   "name": "Pencil2D Animation",
+   "description": "Free open source 2D hand-drawn animation tool",
+   "alternative_to": "Toon Boom Harmony",
+   "link": "https://www.opensourcealternatives.to/item/pencil2d-animation",
+   "repo": "https://github.com/pencil2d/pencil",
+   "tags": [
+    "Graphic Design",
+    "Video",
+    "macOS"
+   ],
+   "github_stars": "1.8"
+  },
+  {
+   "name": "Ghostscript",
+   "description": "Open source PDF and PostScript interpreter and converter",
+   "alternative_to": "Adobe PDF Services API",
+   "link": "https://www.opensourcealternatives.to/item/ghostscript",
+   "repo": "https://github.com/ArtifexSoftware/ghostpdl",
+   "tags": [
+    "Developer Tools",
+    "Workflow Automation",
+    "Coding"
+   ],
+   "github_stars": "272"
+  },
+  {
+   "name": "Typesense",
+   "description": "Fast typo-tolerant search engine with instant results",
+   "alternative_to": "Algolia and Elastic Cloud",
+   "link": "https://www.opensourcealternatives.to/item/typesense",
+   "repo": "https://github.com/typesense/typesense",
+   "tags": [
+    "Search Engine",
+    "API Infrastructure",
+    "Developer Tools"
+   ],
+   "github_stars": "26.5"
+  },
+  {
+   "name": "Falcon LLM",
+   "description": "Apache 2.0-licensed LLM from TII, from 1B to 180B parameters",
+   "alternative_to": "OpenAI",
+   "link": "https://www.opensourcealternatives.to/item/falcon-llm",
+   "repo": "https://github.com/oumi-ai/oumi",
+   "tags": [
+    "LLM",
+    "LLMOps",
+    "AI SDK"
+   ],
+   "github_stars": "9.4"
+  },
+  {
+   "name": "Fusio",
+   "description": "Build, document, and monetize APIs from one self-hosted platform",
+   "alternative_to": "Apigee",
+   "link": "https://www.opensourcealternatives.to/item/fusio",
+   "repo": "https://github.com/apioo/fusio",
+   "tags": [
+    "API Infrastructure",
+    "API Development Tools",
+    "Developer Tools"
+   ],
+   "github_stars": "2.1"
+  },
+  {
+   "name": "Floorp",
+   "description": "Firefox fork with advanced privacy controls and UI customization",
+   "alternative_to": "Island Enterprise Browser",
+   "link": "https://www.opensourcealternatives.to/item/floorp",
+   "repo": "https://github.com/Floorp-Projects/Floorp",
+   "tags": [
+    "Web Browsers",
+    "Privacy Tools",
+    "Security"
+   ],
+   "github_stars": "8.4"
+  },
+  {
+   "name": "Konqueror",
+   "description": "KDE-native file manager and browser with multi-protocol support",
+   "alternative_to": "Microsoft Edge for Business",
+   "link": "https://www.opensourcealternatives.to/item/konqueror",
+   "repo": "https://github.com/KDE/konqueror",
+   "tags": [
+    "Web Browsers",
+    "File Sharing",
+    "File Sync & Storage"
+   ],
+   "github_stars": "106"
+  },
+  {
+   "name": "OpenPDF",
+   "description": "Free open source Java library for creating and editing PDFs",
+   "alternative_to": "Adobe PDF Services API",
+   "link": "https://www.opensourcealternatives.to/item/openpdf",
+   "repo": "https://github.com/LibrePDF/OpenPDF",
+   "tags": [
+    "Developer Tools",
+    "API Infrastructure",
+    "Workflow Automation"
+   ],
+   "github_stars": "4.4"
+  },
+  {
+   "name": "Unleash",
+   "description": "LaunchDarkly alternative with SDK for 30+ languages, self-hosted",
+   "alternative_to": "LaunchDarkly and Optimizely",
+   "link": "https://www.opensourcealternatives.to/item/unleash",
+   "repo": "https://github.com/Unleash/unleash",
+   "tags": [
+    "Feature Flag",
+    "A/B Testing",
+    "DevOps Tools"
+   ],
+   "github_stars": "13.8"
+  },
+  {
+   "name": "Codegen",
+   "description": "AI that reviews your code, fixes bugs, and implements features",
+   "alternative_to": "GitHub Copilot",
+   "link": "https://www.opensourcealternatives.to/item/codegen",
+   "repo": "https://github.com/features/copilot",
+   "tags": [
+    "AI Coding Assistant",
+    "AI Agents",
+    "Developer Tools"
+   ],
+   "github_stars": "520"
+  },
+  {
+   "name": "Lightdash",
+   "description": "Self-serve BI for dbt projects with metric definitions",
+   "alternative_to": "Tableau",
+   "link": "https://www.opensourcealternatives.to/item/lightdash",
+   "repo": "https://github.com/lightdash/lightdash",
+   "tags": [
+    "Data Visualization",
+    "Web Analytics",
+    "Developer Tools"
+   ],
+   "github_stars": "6.1"
+  },
+  {
+   "name": "Dendron",
+   "description": "Local-first Markdown notes with hierarchy and backlinks",
+   "alternative_to": "Notion and Confluence",
+   "link": "https://www.opensourcealternatives.to/item/dendron",
+   "repo": "https://github.com/dendronhq/dendron",
+   "tags": [
+    "Note-taking Apps",
+    "Knowledge Management",
+    "Developer Tools"
+   ],
+   "github_stars": "7.5"
+  }
+ ]
+}
